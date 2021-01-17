@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://mail.google.com/mail/u/?authuser=divyanshusoni52@gmail.com">
-  <img align="left" alt="Divyanshu's Instagram" width="22px" height="20px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Divyanshu's Instagram" width="40px" height="20px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br>
 <br>
