@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-<p align=" center">**My Github Stats**</p>
+<p align=" center">My Github Stats</p>
 
 <br/>
 <a href="#stats">
