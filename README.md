@@ -25,11 +25,6 @@
 <>   Currently learning **DSA** along with **JS**.
 
 
-
- 
-
-
-
 ### Languages & Frameworks:
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -42,11 +37,12 @@
 
 <br/>
 <br/>
-
+<br/>
 ### Stats
-
+<br/>
 <a href="#stats">
-<img align="center" alt="Divyanshu's Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=dcs-soni&show_icons=true&count_private=true" /></a>
+<img align="center" alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni_icons=true&theme=gotham" alt="Divyanshu soni" />
+" /></a>
 </br>
 </br>
 
