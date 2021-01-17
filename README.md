@@ -1,4 +1,4 @@
-### Hii!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  ### Divyanshu there 
+### Hii!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Divyanshu there 
 <a href="https://twitter.com/divyanshu_soni_">
   <img align="left" alt="Divyanshu Soni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -45,9 +45,10 @@
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dcs-soni&hide=css,java,html&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dcs-soni&theme=tokyonight" alt="dcs-soni" />
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dcs-soni&theme=gotham" alt="dcs-soni" /></p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dcs-soni&hide=css,java,html&theme=tokyonight">
+<p align="center"></p>
 </br>
 </br>
 
@@ -56,10 +57,10 @@
 
 <br/>
 <a href="#stats">
-<p align="center"><img alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=gotham" alt="Divyanshu soni" /></a>
+<p align="center"><img alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=tokyonight" alt="Divyanshu soni" /></a>
 
    <a href="#stats">
-   <p align="center"><img alt="Divyanshu's Top Languages" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=gotham" />
+   <p align="center"><img alt="Divyanshu's Top Languages" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=tokyonight" />
    </a>
 
 
