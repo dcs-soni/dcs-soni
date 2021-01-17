@@ -45,11 +45,11 @@
 <a href="#stats">
 <p align="left"><img alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=gotham" alt="Divyanshu soni" /></a>
 
-  <a href="#stats">
-  <p align="right"><img alt="Divyanshu's Top Languages" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=gotham" />
-  </a>
-</br>
-</br>
+   <a href="#stats">
+   <p align="right"><img alt="Divyanshu's Top Languages" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=gotham" />
+   </a>
+   </br>
+   </br>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dcs-soni&theme=gotham" alt="dcs-soni" /></p>
 </br>
