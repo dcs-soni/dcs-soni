@@ -49,16 +49,6 @@
 </p>
 </details>
 
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
-**💬 Most used Languages**
-<p align = "center">
-  <img src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=tokyonight&line_height=27"></p>
-
-
-
 
 
 
