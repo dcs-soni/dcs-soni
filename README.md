@@ -39,7 +39,17 @@
 <br/>
 <br/>
 
-<p align=" center">My Github Stats</p>
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dcs-soni_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dcs-soni&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
+<p align="center">My Github Stats</p>
 
 <br/>
 <a href="#stats">
