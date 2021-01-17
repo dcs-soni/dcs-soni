@@ -6,7 +6,7 @@
   <img align="left" alt="Divyanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://mail.google.com/mail/u/?authuser=divyanshusoni52@gmail.com">
-  <img align="left" alt="Divyanshu's Instagram" width="50px" height="25px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Divyanshu's Instagram" width="55px" height="22px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
@@ -38,31 +38,24 @@
 <code><img height="30" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <br/>
 <br/>
-
 ## 💻 Some stats
+
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=tokyonight&line_height=27">
-  <img src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=tokyonight&line_height=27" alt="dcs-soni" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=dcs-soni&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dcs-soni&theme=tokyonight">
 </p>
-
-<p align="center"><img src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=tokyonight"></p>
-</br>
-</br>
-
 </details>
-<p align="center">My Github Stats</p>
 
-<br/>
-<a href="#stats">
-<p align="center"><img alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=tokyonight" alt="Divyanshu soni" /></a>
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
 
-   <a href="#stats">
-   <p align="center"><img alt="Divyanshu's Top Languages" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=tokyonight" />
-   </a>
-
+**💬 Most used Languages**
+<p align = "center">
+  <img src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=tokyonight&line_height=27"></p>
 
 
 
