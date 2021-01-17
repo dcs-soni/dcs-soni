@@ -1,9 +1,22 @@
-## Hii!! I am Divyanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">                              ![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
+### Hii!! I am Divyanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">                              ![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
+<a href="https://twitter.com/divyanshu_soni_">
+  <img align="left" alt="Divyanshu Soni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/divyanshu--soni/">
+  <img align="left" alt="Divyanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://instagram.com/__divyanshu.soni__">
+  <img align="left" alt="Divyanshu's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+<a href="https://mail.google.com/mail/u/?authuser=divyanshusoni52@gmail.com">
+  <img align="left" alt="Divyanshu's Instagram" width="22px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 
 <>   I'm a Self Taught Programmer looking out for new opportunities 🗻.
 
-     ![Alt Text](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?raw=true" width="500" height="320" />
      
 <>   I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
