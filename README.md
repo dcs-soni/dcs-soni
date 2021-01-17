@@ -5,14 +5,12 @@
 <a href="https://www.linkedin.com/in/divyanshu--soni/">
   <img align="left" alt="Divyanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://instagram.com/__divyanshu.soni__">
-  <img align="left" alt="Divyanshu's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
+
 <a href="https://mail.google.com/mail/u/?authuser=divyanshusoni52@gmail.com">
-  <img align="left" alt="Divyanshu's Instagram" width="22px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Divyanshu's Instagram" width="22px" height="20px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-
+<br>
+<br>
 
 <>   I'm a Self Taught Programmer looking out for new opportunities 🗻.
 
