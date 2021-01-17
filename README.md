@@ -8,7 +8,9 @@
 
 <a href="https://mail.google.com/mail/u/?authuser=divyanshusoni52@gmail.com">
   <img align="left" alt="Divyanshu's Instagram" width="50px" height="25px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&emsp; &emsp; &emsp; ![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
 <br>
 <br>
 
@@ -23,7 +25,7 @@
 <>   Practicing everyday to write clean code ✨.
 
 <>   Currently learning **DSA** along with **JS**.
-
+<br/>
 
 ### Languages & Frameworks:
 
