@@ -41,7 +41,7 @@
 ### Stats
 <br/>
 <a href="#stats">
-<img align="center" alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni_icons=true&theme=gotham" alt="Divyanshu soni" />
+<img align="center" alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=gotham" alt="Divyanshu soni" />
 " /></a>
 </br>
 </br>
