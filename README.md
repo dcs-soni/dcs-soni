@@ -48,8 +48,6 @@
    <a href="#stats">
    <p align="right"><img alt="Divyanshu's Top Languages" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=gotham" />
    </a>
-   </br>
-   </br>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dcs-soni&theme=gotham" alt="dcs-soni" /></p>
 </br>
