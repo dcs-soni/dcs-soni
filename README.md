@@ -48,7 +48,7 @@
 </br>
 
 <a href="#stats">
-<p align="center"><img alt="Divyanshu's Top Languages src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=gotham" />
+<p align="center"><img alt="Divyanshu's Top Languages" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&&theme=gotham" />
 </a>
 </br>
 </br>
