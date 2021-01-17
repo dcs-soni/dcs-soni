@@ -62,15 +62,3 @@
 
 
 
-### Connect with me:
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter1]
-[<img src = "https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">][gmail]
-
-
-
-[linkedin]: https://www.linkedin.com/in/divyanshu--soni/
-[instagram]: https://instagram.com/__divyanshu-soni__
-[gmail]: https://mail.google.com/mail/u/?authuser=divyanshusoni52@gmail.com
-[twitter1]: https://twitter.com/divyanshu_soni_
