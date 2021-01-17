@@ -27,32 +27,33 @@
 
 ### Languages & Frameworks:
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<code><img height="20" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img height="20" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img height="20" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img height="20" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img height="20" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img align="left" alt="SQL" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/django.png" />
-<img align="left" alt="React" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-### Stats
+### My Github Stats
+
 <br/>
 <a href="#stats">
-<img align="center" alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=gotham" alt="Divyanshu soni" />
+<p align="center"><img alt="Divyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=gotham" alt="Divyanshu soni" />
 " /></a>
 </br>
 </br>
 
 <a href="#stats">
-<img align="center" src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&hide=css&layout=compact" />
+<p align="center"><img alt="Divyanshu's Top Languages src = "https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=dcs-soni&hide=css&layout=compact&theme=gotham" />
 </a>
 </br>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcs-soni&" alt="dcs-soni" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dcs-soni&theme=gotham" alt="dcs-soni" /></p>
 </br>
 </br>
 
