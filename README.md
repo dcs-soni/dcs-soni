@@ -47,7 +47,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=tokyonight&line_height=27">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dcs-soni&theme=tokyonight" alt="dcs-soni" />
 </p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dcs-soni&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dcs-soni&icons=true&theme=tokyonight">
 <p align="center"></p>
 </br>
 </br>
