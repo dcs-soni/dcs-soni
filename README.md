@@ -1,4 +1,4 @@
-### Hii!! I am Divyanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">&nbsp         ![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
+### Hii!! I am Divyanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">&nbsp  ![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
 <a href="https://twitter.com/divyanshu_soni_">
   <img align="left" alt="Divyanshu Soni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
