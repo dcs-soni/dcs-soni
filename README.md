@@ -1,4 +1,4 @@
-### Hii!! I am Divyanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &emsp; &emsp; &emsp; ![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
+### Hii!! I am Divyanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <a href="https://twitter.com/divyanshu_soni_">
   <img align="left" alt="Divyanshu Soni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -8,7 +8,7 @@
 
 <a href="https://mail.google.com/mail/u/?authuser=divyanshusoni52@gmail.com">
   <img align="left" alt="Divyanshu's Instagram" width="50px" height="25px" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a>&emsp; &emsp; &emsp; ![](https://visitor-badge.glitch.me/badge?page_id=dcs-soni.dcs-soni)
 <br>
 <br>
 
