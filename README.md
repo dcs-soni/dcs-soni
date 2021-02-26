@@ -23,7 +23,7 @@
 
 <>   Practicing everyday to write clean code ✨.
 
-<>   Currently learning **DSA** along with **JS**.
+<>   Currently learning **DSA** and **ReactJS**.
 <br/>
 
 **Languages & Frameworks:**
