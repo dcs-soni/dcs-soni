@@ -662,11 +662,11 @@ function processTemplate(template, data) {
         );
         item = item.replace(
           /\{\{\s*REPO_ADDITIONS\s*\}\}/g,
-          `**+${formatNumber(repo.additions)}**`,
+          `$\\color{Green}{\\textsf{+${formatNumber(repo.additions)}}}$`,
         );
         item = item.replace(
           /\{\{\s*REPO_DELETIONS\s*\}\}/g,
-          `**-${formatNumber(repo.deletions)}**`,
+          `$\\color{Red}{\\textsf{-${formatNumber(repo.deletions)}}}$`,
         );
         return item.trimEnd();
       })
