@@ -1,0 +1,12 @@
+{
+  "name": "github-profile-readme",
+  "version": "1.0.0",
+  "description": "Auto-generate GitHub profile README with stats",
+  "main": "generate-stats.js",
+  "scripts": {
+    "generate": "node generate-stats.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
