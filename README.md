@@ -1,37 +1,28 @@
-<p align="center">
-  <a href="https://divyanshusoni.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyanshu+Soni" alt="Typing SVG" />
-  </a>
-</p>
+# Hi, I'm Divyanshu Soni 👋
 
-<p align="center">
-  <a href="https://github.com/dcs-soni">
-    <img src="https://komarev.com/ghpvc/?username=dcs-soni&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
-  </a>
-</p>
+📍 **India** | 🛠️ **Full Stack Developer** | [**divyanshusoni.com**](https://divyanshusoni.com)
 
----
+> I build products, break things, and share what I learn.
 
-Joined GitHub **6** years ago.
+## What I'm Doing
+
+- **Building** — Full-stack applications and developer tools with TypeScript, Node.js, and React.
+- **Writing** — Technical articles on security, infrastructure, and debugging on [Dev.to](https://dev.to/dcs-soni).
+- **Learning** — System design, cloud-native infrastructure (Kubernetes, Terraform), and DevOps.
+- **Open Source** — Shipping side projects and contributing to the developer ecosystem.
 
 ## 📊 Stats
+
+Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
 
-| 📦 **82** public repos | 🔥 **1,198** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2084%25) |
-| 🔥 **1,960** commits | 📝 **4** issues | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 📦 **82** public repos | 🔥 **1,201** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2084%25) |
+| 🔥 **2,295** commits | 📝 **4** issues | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
 | 📋 **20** issues | 🔀 **305** PRs | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
-| 🔀 **363** PRs | $\color{Green}{\textsf{+176,545}}$ lines added | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%203%25) |
+| 🔀 **431** PRs | $\color{Green}{\textsf{+176,545}}$ lines added | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%204%25) |
 | ⭐ **35** stars | $\color{Red}{\textsf{-42,433}}$ lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dcs-soni&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
 
 ## 🚀 Most Active Projects (Last Year)
 
@@ -93,14 +84,24 @@ Joined GitHub **6** years ago.
 
 - [continue](https://github.com/dcs-soni/continue) — ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI `TypeScript` ⭐ 0 · Updated 1 month ago
 
-## 🤝 Connect With Me
+## 📝 Latest Blog Posts
 
-<p align="center">
-  <a href="https://divyanshusoni.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>&nbsp;
-  <a href="https://x.com/divyanshu_soni_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/dcs-soni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://dev.to/dcs-soni"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-</p>
+<!-- BLOG-POST-LIST:START -->
+
+* [Vector Databases: Beyond Keyword Matching](https://divyanshusoni.com/blog/vector-databases-beyond-keyword-matching)
+* [How AI Coding Tools Are Rewiring Software Development](https://divyanshusoni.com/blog/how-ai-coding-tools-are-rewiring-software-development)
+* [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
+* [Subscribers in PKI: Who Actually Uses the Certificates](https://dev.to/dcs-soni/subscribers-in-pki-who-actually-uses-the-certificates-42od)
+* [Private Certificate Authorities: Building Trust Inside Your Organization](https://dev.to/dcs-soni/private-certificate-authorities-building-trust-inside-your-organization-4dkk)
+
+<!-- BLOG-POST-LIST:END -->
+
+## Connect
+
+[![X](https://img.shields.io/badge/-@divyanshu__soni__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/divyanshu_soni_)
+[![LinkedIn](https://img.shields.io/badge/-dcs--soni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcs-soni/)
+[![Dev.to](https://img.shields.io/badge/-dcs--soni-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/dcs-soni)
+[![Website](https://img.shields.io/badge/-divyanshusoni.com-000000?style=flat-square&logo=safari&logoColor=white)](https://divyanshusoni.com)
 
 ---
 
