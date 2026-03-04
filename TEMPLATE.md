@@ -1,33 +1,24 @@
-<p align="center">
-  <a href="https://divyanshusoni.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Divyanshu+Soni" alt="Typing SVG" />
-  </a>
-</p>
+# Hi, I'm Divyanshu Soni 👋
 
-<p align="center">
-  <a href="https://github.com/dcs-soni">
-    <img src="https://komarev.com/ghpvc/?username=dcs-soni&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
-  </a>
-</p>
+📍 **India** | 🛠️ **Full Stack Developer** | [**divyanshusoni.com**](https://divyanshusoni.com)
 
----
+> I build products, break things, and share what I learn.
 
-Joined GitHub **{{ ACCOUNT_AGE }}** years ago.
+## What I'm Doing
+
+- **Building** — Full-stack applications and developer tools with TypeScript, Node.js, and React.
+- **Writing** — Technical articles on security, infrastructure, and debugging on [Dev.to](https://dev.to/dcs-soni).
+- **Learning** — System design, cloud-native infrastructure (Kubernetes, Terraform), and DevOps.
+- **Open Source** — Shipping side projects and contributing to the developer ecosystem.
 
 ## 📊 Stats
+
+Joined GitHub **{{ ACCOUNT_AGE }}** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
 
 {{ TOP_LANGUAGES_ROWS }}
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=dcs-soni&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
 
 ## 🚀 Most Active Projects (Last Year)
 
@@ -43,14 +34,20 @@ Joined GitHub **{{ ACCOUNT_AGE }}** years ago.
 - [{{ RECENT_REPO_NAME }}]({{ RECENT_REPO_URL }}) — {{ RECENT_REPO_DESCRIPTION }} `{{ RECENT_REPO_LANGUAGE }}` ⭐ {{ RECENT_REPO_STARS }} · Updated {{ RECENT_REPO_UPDATED }}
   {{ RECENT_REPOS_END }}
 
-## 🤝 Connect With Me
+## 📝 Latest Blog Posts
 
-<p align="center">
-  <a href="https://divyanshusoni.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>&nbsp;
-  <a href="https://x.com/divyanshu_soni_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/dcs-soni/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://dev.to/dcs-soni"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-</p>
+<!-- BLOG-POST-LIST:START -->
+
+{{ BLOG_POSTS }}
+
+<!-- BLOG-POST-LIST:END -->
+
+## Connect
+
+[![X](https://img.shields.io/badge/-@divyanshu__soni__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/divyanshu_soni_)
+[![LinkedIn](https://img.shields.io/badge/-dcs--soni-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcs-soni/)
+[![Dev.to](https://img.shields.io/badge/-dcs--soni-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/dcs-soni)
+[![Website](https://img.shields.io/badge/-divyanshusoni.com-000000?style=flat-square&logo=safari&logoColor=white)](https://divyanshusoni.com)
 
 ---
 

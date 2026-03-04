@@ -3,6 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 const yaml = require("js-yaml");
+const Parser = require("rss-parser");
 
 const LANGUAGE_COLORS = {
   JavaScript: "#f1e05a",
@@ -488,6 +489,20 @@ async function fetchRecentRepos(token, username, count = 8) {
   }));
 }
 
+async function fetchBlogPosts(count = 5) {
+  try {
+    const parser = new Parser();
+    const feed = await parser.parseURL("https://divyanshusoni.com/rss.xml");
+    return feed.items.slice(0, count).map((item) => ({
+      title: item.title,
+      url: item.link,
+    }));
+  } catch (e) {
+    console.log("  Could not fetch blog posts from RSS feed");
+    return [];
+  }
+}
+
 function formatRelativeDate(date) {
   const now = new Date();
   const diffMs = now - date;
@@ -695,6 +710,16 @@ function processTemplate(template, data) {
     );
   }
 
+  // Blog posts
+  if (data.blogPosts && data.blogPosts.length > 0) {
+    const blogLines = data.blogPosts
+      .map((post) => `* [${post.title}](${post.url})`)
+      .join("\n");
+    result = result.replace(/\{\{\s*BLOG_POSTS\s*\}\}/g, blogLines);
+  } else {
+    result = result.replace(/\{\{\s*BLOG_POSTS\s*\}\}/g, "");
+  }
+
   return result;
 }
 
@@ -836,6 +861,10 @@ async function main() {
   const recentRepos = await fetchRecentRepos(token, viewer.login, 8);
   console.log(`   Found ${recentRepos.length} recent repos\n`);
 
+  console.log("Fetching blog posts from divyanshusoni.com");
+  const blogPosts = await fetchBlogPosts(5);
+  console.log(`   Found ${blogPosts.length} blog posts\n`);
+
   const statsData = {
     username: viewer.login,
     accountAge,
@@ -875,6 +904,7 @@ async function main() {
     })(),
     topRepos,
     recentRepos,
+    blogPosts,
   };
 
   const templatePath = path.join(__dirname, "TEMPLATE.md");
