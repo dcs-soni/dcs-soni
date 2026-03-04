@@ -593,11 +593,11 @@ function processTemplate(template, data) {
   );
   result = result.replace(
     /\{\{\s*TOTAL_ADDITIONS_LAST_YEAR\s*\}\}/g,
-    `$\\color{Green}{\\textsf{+${formatNumber(data.totalAdditionsLastYear)}}}$`,
+    `**+${formatNumber(data.totalAdditionsLastYear)}**`,
   );
   result = result.replace(
     /\{\{\s*TOTAL_DELETIONS_LAST_YEAR\s*\}\}/g,
-    `$\\color{Red}{\\textsf{-${formatNumber(data.totalDeletionsLastYear)}}}$`,
+    `**-${formatNumber(data.totalDeletionsLastYear)}**`,
   );
   result = result.replace(
     /\{\{\s*TOTAL_ISSUES_ALL_TIME\s*\}\}/g,
@@ -662,11 +662,11 @@ function processTemplate(template, data) {
         );
         item = item.replace(
           /\{\{\s*REPO_ADDITIONS\s*\}\}/g,
-          `$\\color{Green}{\\textsf{+${formatNumber(repo.additions)}}}$`,
+          `**+${formatNumber(repo.additions)}**`,
         );
         item = item.replace(
           /\{\{\s*REPO_DELETIONS\s*\}\}/g,
-          `$\\color{Red}{\\textsf{-${formatNumber(repo.deletions)}}}$`,
+          `**-${formatNumber(repo.deletions)}**`,
         );
         return item.trimEnd();
       })
@@ -892,8 +892,8 @@ async function main() {
         `🔥 **${formatNumber(totalCommitsLastYear)}** commits`,
         `📝 **${formatNumber(totalIssuesLastYear)}** issues`,
         `🔀 **${formatNumber(totalPRsLastYear)}** PRs`,
-        `$\\color{Green}{\\textsf{+${formatNumber(totalAdditionsLastYear)}}}$ lines added`,
-        `$\\color{Red}{\\textsf{-${formatNumber(totalDeletionsLastYear)}}}$ lines removed`,
+        `🟢 **+${formatNumber(totalAdditionsLastYear)}** lines added`,
+        `🔴 **-${formatNumber(totalDeletionsLastYear)}** lines removed`,
       ];
       for (let i = 0; i < 5; i++) {
         const lang = topLanguages[i];
