@@ -650,10 +650,10 @@ function processTemplate(template, data) {
     /\{\{\s*REPO_TEMPLATE_START\s*\}\}([\s\S]*?)\{\{\s*REPO_TEMPLATE_END\s*\}\}/,
   );
   if (repoMatch) {
-    const repoTemplate = repoMatch[1];
+    const repoTemplate = repoMatch[1].trim();
     const repoItems = data.topRepos
       .map((repo) => {
-        let item = repoTemplate.replace(/^\n/, "");
+        let item = repoTemplate;
         item = item.replace(/\{\{\s*REPO_NAME\s*\}\}/g, repo.name);
         item = item.replace(/\{\{\s*REPO_URL\s*\}\}/g, repo.url);
         item = item.replace(
@@ -682,10 +682,10 @@ function processTemplate(template, data) {
     /\{\{\s*RECENT_REPOS_START\s*\}\}([\s\S]*?)\{\{\s*RECENT_REPOS_END\s*\}\}/,
   );
   if (recentMatch) {
-    const recentTemplate = recentMatch[1];
+    const recentTemplate = recentMatch[1].trim();
     const recentItems = data.recentRepos
       .map((repo) => {
-        let item = recentTemplate.replace(/^\n/, "");
+        let item = recentTemplate;
         item = item.replace(/\{\{\s*RECENT_REPO_NAME\s*\}\}/g, repo.name);
         item = item.replace(/\{\{\s*RECENT_REPO_URL\s*\}\}/g, repo.url);
         item = item.replace(
