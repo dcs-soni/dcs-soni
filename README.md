@@ -17,9 +17,8 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-
-| 📦 **82** public repos | 🔥 **1,204** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2083%25) |
-| 🔥 **2,298** commits | 📝 **4** issues | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 📦 **82** public repos | 🔥 **1,207** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2083%25) |
+| 🔥 **2,301** commits | 📝 **4** issues | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
 | 📋 **20** issues | 🔀 **305** PRs | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%205%25) |
 | 🔀 **431** PRs | 🟢 **+176,545** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
 | ⭐ **35** stars | 🔴 **-42,433** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
@@ -27,33 +26,23 @@ Joined GitHub **6** years ago.
 ## 🚀 Most Active Projects (Last Year)
 
 
-
 - [taskerra](https://github.com/dcs-soni/taskerra) - 147 commits, **+30,872** / **-6,776**
-
 
 - [vault-key](https://github.com/dcs-soni/vault-key) - 67 commits, **+20,314** / **-1,428**
 
-
 - [build-track](https://github.com/dcs-soni/build-track) - 55 commits, **+62,622** / **-17,859**
-
 
 - [stash-it](https://github.com/dcs-soni/stash-it) - 54 commits, **+2,871** / **-1,339**
 
-
 - [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - 42 commits, **+15,900** / **-1,385**
-
 
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - 39 commits, **+13,946** / **-5,252**
 
-
 - [trendsAI](https://github.com/dcs-soni/trendsAI) - 24 commits, **+7,941** / **-7,536**
-
 
 - [promptenhance](https://github.com/dcs-soni/promptenhance) - 24 commits, **+5,490** / **-304**
 
-
 - [content-flux](https://github.com/dcs-soni/content-flux) - 19 commits, **+5,162** / **-66**
-
 
 - [fileguard](https://github.com/dcs-soni/fileguard) - 19 commits, **+11,427** / **-488**
 
@@ -98,10 +87,10 @@ Joined GitHub **6** years ago.
 
 ## 🤝 Connect with me
 
-[![X](https://img.shields.io/badge/-@divyanshu__soni__-2DD4A8?style=flat-square&logo=x&logoColor=white)](https://x.com/divyanshu_soni_)
-[![LinkedIn](https://img.shields.io/badge/-dcs--soni-2DD4A8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcs-soni/)
-[![Dev.to](https://img.shields.io/badge/-dcs--soni-2DD4A8?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/dcs-soni)
-[![Website](https://img.shields.io/badge/-divyanshusoni.com-2DD4A8?style=flat-square&logo=googlechrome&logoColor=white)](https://divyanshusoni.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/divyanshu_soni_)
+[![LinkedIn]https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzJjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTUuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://www.linkedin.com/in/dcs-soni/)
+[![Dev.to](https://img.shields.io/badge/-dcs--soni-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/dcs-soni)
+[![Website](https://img.shields.io/badge/-divyanshusoni.com-1E3A8A?style=flat-square&logo=googlechrome&logoColor=white)](https://divyanshusoni.com)
 
 ---
 
