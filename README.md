@@ -17,11 +17,11 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **82** public repos | 🔥 **1,213** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2082%25) |
-| 🔥 **2,307** commits | 📝 **4** issues | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
-| 📋 **20** issues | 🔀 **305** PRs | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%206%25) |
-| 🔀 **431** PRs | 🟢 **+176,545** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
-| ⭐ **35** stars | 🔴 **-42,433** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
+| 📦 **82** public repos | 🔥 **1,207** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2082%25) |
+| 🔥 **2,308** commits | 📝 **4** issues | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 📋 **20** issues | 🔀 **304** PRs | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%206%25) |
+| 🔀 **431** PRs | 🟢 **+167,824** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
+| ⭐ **35** stars | 🔴 **-42,221** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
@@ -31,10 +31,10 @@ Joined GitHub **6** years ago.
 - [stash-it](https://github.com/dcs-soni/stash-it) - 54 commits, $\color{Green}{\textsf{+2,871}}$ / $\color{Red}{\textsf{-1,339}}$
 - [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - 42 commits, $\color{Green}{\textsf{+15,900}}$ / $\color{Red}{\textsf{-1,385}}$
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - 39 commits, $\color{Green}{\textsf{+13,946}}$ / $\color{Red}{\textsf{-5,252}}$
-- [trendsAI](https://github.com/dcs-soni/trendsAI) - 24 commits, $\color{Green}{\textsf{+7,941}}$ / $\color{Red}{\textsf{-7,536}}$
 - [promptenhance](https://github.com/dcs-soni/promptenhance) - 24 commits, $\color{Green}{\textsf{+5,490}}$ / $\color{Red}{\textsf{-304}}$
+- [trendsAI](https://github.com/dcs-soni/trendsAI) - 21 commits, $\color{Green}{\textsf{+7,652}}$ / $\color{Red}{\textsf{-7,520}}$
+- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 19 commits, $\color{Green}{\textsf{+2,995}}$ / $\color{Red}{\textsf{-292}}$
 - [content-flux](https://github.com/dcs-soni/content-flux) - 19 commits, $\color{Green}{\textsf{+5,162}}$ / $\color{Red}{\textsf{-66}}$
-- [fileguard](https://github.com/dcs-soni/fileguard) - 19 commits, $\color{Green}{\textsf{+11,427}}$ / $\color{Red}{\textsf{-488}}$
 
 ## 🛠️ Projects In Progress
 
