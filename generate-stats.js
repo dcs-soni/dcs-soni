@@ -453,13 +453,15 @@ async function fetchRepoCommitStats(token, owner, repoName, userId, since) {
 }
 
 async function fetchRecentRepos(token, username, count = 8) {
+  const fetchCount = count * 3; // Over-fetch to account for filtered forks
   const query = `
     query($username: String!) {
       user(login: $username) {
         repositories(
-          first: ${count},
+          first: ${fetchCount},
           ownerAffiliations: OWNER,
           privacy: PUBLIC,
+          isFork: false,
           orderBy: { field: PUSHED_AT, direction: DESC }
         ) {
           nodes {
@@ -479,14 +481,16 @@ async function fetchRecentRepos(token, username, count = 8) {
   `;
 
   const data = await graphqlQuery(token, query, { username });
-  return data.user.repositories.nodes.map((repo) => ({
-    name: repo.name,
-    url: repo.url,
-    description: repo.description || "No description",
-    language: repo.primaryLanguage?.name || "—",
-    stars: repo.stargazerCount,
-    updatedAt: formatRelativeDate(new Date(repo.pushedAt)),
-  }));
+  return data.user.repositories.nodes
+    .slice(0, count)
+    .map((repo) => ({
+      name: repo.name,
+      url: repo.url,
+      description: repo.description || "No description",
+      language: repo.primaryLanguage?.name || "—",
+      stars: repo.stargazerCount,
+      updatedAt: formatRelativeDate(new Date(repo.pushedAt)),
+    }));
 }
 
 async function fetchBlogPosts(count = 5) {

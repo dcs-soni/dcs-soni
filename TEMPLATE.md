@@ -1,13 +1,14 @@
 # Hi, I'm Divyanshu Soni 👋
 
-📍 **India** | 🛠️ **Full Stack Developer** | [**divyanshusoni.com**](https://divyanshusoni.com)
+📍 **India** | 🛠️ **Full Stack Developer** | Ex - JetBrains Academy | [**divyanshusoni.com**](https://divyanshusoni.com)
 
-> I build products, break things, and share what I learn.
+> I build products, explore AI Agents, break things, and share what I learn along the way!.
 
 ## What I'm Doing
 
-- **Building** - Full-stack applications and developer tools with TypeScript, Node.js, and React.
-- **Writing** - Technical articles on software development, security, infrastructure, and debugging.
+- **Building with AI** - Exploring AI agents, RAG pipelines, and LLM-powered tools.
+- **Full Stack** - Shipping applications and developer tools with TypeScript, Node.js, and React.
+- **Writing** - Technical articles on software development, AI, security, infrastructure, and debugging.
 - **Learning** - AI Agents, System design, cloud-native infrastructure (Kubernetes, Terraform), DevOps.
 - **Open Source** - Shipping side projects and contributing to the developer ecosystem.
 
