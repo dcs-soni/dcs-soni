@@ -1,13 +1,14 @@
 # Hi, I'm Divyanshu Soni 👋
 
-📍 **India** | 🛠️ **Full Stack Developer** | [**divyanshusoni.com**](https://divyanshusoni.com)
+📍 **India** | 🛠️ **Full Stack Developer** | Ex - JetBrains Academy | [**divyanshusoni.com**](https://divyanshusoni.com)
 
-> I build products, break things, and share what I learn.
+> I build products, explore AI Agents, break things, and share what I learn along the way!.
 
 ## What I'm Doing
 
-- **Building** - Full-stack applications and developer tools with TypeScript, Node.js, and React.
-- **Writing** - Technical articles on software development, security, infrastructure, and debugging.
+- **Building with AI** - Exploring AI agents, RAG pipelines, and LLM-powered tools.
+- **Full Stack** - Shipping applications and developer tools with TypeScript, Node.js, and React.
+- **Writing** - Technical articles on software development, AI, security, infrastructure, and debugging.
 - **Learning** - AI Agents, System design, cloud-native infrastructure (Kubernetes, Terraform), DevOps.
 - **Open Source** - Shipping side projects and contributing to the developer ecosystem.
 
@@ -17,11 +18,11 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **82** public repos | 🔥 **1,207** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2082%25) |
-| 🔥 **2,308** commits | 📝 **4** issues | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
-| 📋 **20** issues | 🔀 **304** PRs | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%206%25) |
-| 🔀 **431** PRs | 🟢 **+167,824** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
-| ⭐ **35** stars | 🔴 **-42,221** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
+| 📦 **82** public repos | 🔥 **1,209** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2081%25) |
+| 🔥 **2,310** commits | 📝 **4** issues | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 📋 **20** issues | 🔀 **304** PRs | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%207%25) |
+| 🔀 **431** PRs | 🟢 **+167,850** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
+| ⭐ **35** stars | 🔴 **-42,242** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
@@ -32,8 +33,8 @@ Joined GitHub **6** years ago.
 - [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - 42 commits, $\color{Green}{\textsf{+15,900}}$ / $\color{Red}{\textsf{-1,385}}$
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - 39 commits, $\color{Green}{\textsf{+13,946}}$ / $\color{Red}{\textsf{-5,252}}$
 - [promptenhance](https://github.com/dcs-soni/promptenhance) - 24 commits, $\color{Green}{\textsf{+5,490}}$ / $\color{Red}{\textsf{-304}}$
+- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 21 commits, $\color{Green}{\textsf{+3,021}}$ / $\color{Red}{\textsf{-313}}$
 - [trendsAI](https://github.com/dcs-soni/trendsAI) - 21 commits, $\color{Green}{\textsf{+7,652}}$ / $\color{Red}{\textsf{-7,520}}$
-- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 19 commits, $\color{Green}{\textsf{+2,995}}$ / $\color{Red}{\textsf{-292}}$
 - [content-flux](https://github.com/dcs-soni/content-flux) - 19 commits, $\color{Green}{\textsf{+5,162}}$ / $\color{Red}{\textsf{-66}}$
 
 ## 🛠️ Projects In Progress
@@ -42,10 +43,10 @@ Joined GitHub **6** years ago.
 - [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - No description `TypeScript` ⭐ 0 · Updated today
 - [build-track](https://github.com/dcs-soni/build-track) - No description `TypeScript` ⭐ 0 · Updated 5 days ago
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` ⭐ 1 · Updated 1 week ago
-- [openclaw](https://github.com/dcs-soni/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  `TypeScript` ⭐ 0 · Updated 1 month ago
 - [postmaster](https://github.com/dcs-soni/postmaster) - No description `TypeScript` ⭐ 0 · Updated 1 month ago
 - [awesome-claude-skills](https://github.com/dcs-soni/awesome-claude-skills) - A collection of custom Claude Code Skills to supercharge your development workflow. `Python` ⭐ 1 · Updated 1 month ago
-- [continue](https://github.com/dcs-soni/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI `TypeScript` ⭐ 0 · Updated 1 month ago
+- [fileguard](https://github.com/dcs-soni/fileguard) - No description `TypeScript` ⭐ 0 · Updated 1 month ago
+- [trendsAI](https://github.com/dcs-soni/trendsAI) - trendsAI is a platform designed to explore and discover the most innovative AI applications and models. Users can join the community to stay ahead in the AI revolution, submit their own AI projects, and engage with other AI enthusiasts. `TypeScript` ⭐ 0 · Updated 2 months ago
 
 ## 📝 Latest Blog Posts
 
