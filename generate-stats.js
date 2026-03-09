@@ -63,7 +63,7 @@ async function loadLanguageColors() {
     }
   }
 
-  console.log("Fetching language colors from GitHub Linguist...");
+  console.log("Fetching language colors from GitHub Linguist");
   try {
     const response = await fetch(
       "https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml",
@@ -833,7 +833,7 @@ async function main() {
 
   const topRepos = reposWithCommits
     .sort((a, b) => b.commits - a.commits)
-    .slice(0, 10);
+    .slice(0, 15);
 
   console.log("Fetching additions/deletions for top repos");
   let totalAdditionsLastYear = 0,
@@ -862,7 +862,7 @@ async function main() {
   console.log(`   Total stars: ${starsReceived}\n`);
 
   console.log("Fetching recently updated repos");
-  const recentRepos = await fetchRecentRepos(token, viewer.login, 8);
+  const recentRepos = await fetchRecentRepos(token, viewer.login, 10);
   console.log(`   Found ${recentRepos.length} recent repos\n`);
 
   console.log("Fetching blog posts from divyanshusoni.com");

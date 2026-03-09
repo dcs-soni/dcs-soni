@@ -20,7 +20,7 @@ Joined GitHub **{{ ACCOUNT_AGE }}** years ago.
 | -------- | --------- | ------------------------- |
 {{ TOP_LANGUAGES_ROWS }}
 
-## 🚀 Most Active Projects (Last Year)
+## 🚀 Most Recent Projects
 
 {{ REPO_TEMPLATE_START }}
 - [{{ REPO_NAME }}]({{ REPO_URL }}) - {{ REPO_COMMITS }} commits, {{ REPO_ADDITIONS }} / {{ REPO_DELETIONS }}
