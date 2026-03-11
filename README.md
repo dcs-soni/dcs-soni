@@ -18,11 +18,11 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **83** public repos | 🔥 **1,203** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2080%25) |
-| 🔥 **2,346** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%208%25) |
-| 📋 **20** issues | 🔀 **297** PRs | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
-| 🔀 **437** PRs | 🟢 **+236,530** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
-| ⭐ **35** stars | 🔴 **-46,440** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
+| 📦 **83** public repos | 🔥 **1,207** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2080%25) |
+| 🔥 **2,359** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%208%25) |
+| 📋 **20** issues | 🔀 **296** PRs | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 🔀 **440** PRs | 🟢 **+236,537** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
+| ⭐ **35** stars | 🔴 **-46,447** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
 
 ## 🚀 Most Recent Projects
 
@@ -32,7 +32,7 @@ Joined GitHub **6** years ago.
 - [stash-it](https://github.com/dcs-soni/stash-it) - 53 commits, $\color{Green}{\textsf{+2,678}}$ / $\color{Red}{\textsf{-1,310}}$
 - [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - 42 commits, $\color{Green}{\textsf{+15,900}}$ / $\color{Red}{\textsf{-1,385}}$
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - 39 commits, $\color{Green}{\textsf{+13,946}}$ / $\color{Red}{\textsf{-5,252}}$
-- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 31 commits, $\color{Green}{\textsf{+3,139}}$ / $\color{Red}{\textsf{-417}}$
+- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 32 commits, $\color{Green}{\textsf{+3,146}}$ / $\color{Red}{\textsf{-424}}$
 - [promptenhance](https://github.com/dcs-soni/promptenhance) - 24 commits, $\color{Green}{\textsf{+5,490}}$ / $\color{Red}{\textsf{-304}}$
 - [trendsAI](https://github.com/dcs-soni/trendsAI) - 19 commits, $\color{Green}{\textsf{+7,383}}$ / $\color{Red}{\textsf{-7,516}}$
 - [content-flux](https://github.com/dcs-soni/content-flux) - 19 commits, $\color{Green}{\textsf{+5,162}}$ / $\color{Red}{\textsf{-66}}$
@@ -45,14 +45,14 @@ Joined GitHub **6** years ago.
 ## 🛠️ Projects In Progress
 
 - [dcs-soni](https://github.com/dcs-soni/dcs-soni) - No description `JavaScript` ⭐ 0 · Updated today
-- [assets](https://github.com/dcs-soni/assets) - No description `—` ⭐ 0 · Updated 3 days ago
-- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - Save, search, and share your content intelligently with AI-powered semantic search and shareable links. `TypeScript` ⭐ 0 · Updated 5 days ago
+- [assets](https://github.com/dcs-soni/assets) - No description `—` ⭐ 0 · Updated 4 days ago
+- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - Save, search, and share your content intelligently with AI-powered semantic search and shareable links. `TypeScript` ⭐ 0 · Updated 6 days ago
 - [build-track](https://github.com/dcs-soni/build-track) - No description `TypeScript` ⭐ 0 · Updated 1 week ago
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` ⭐ 1 · Updated 2 weeks ago
 - [postmaster](https://github.com/dcs-soni/postmaster) - No description `TypeScript` ⭐ 0 · Updated 1 month ago
 - [awesome-claude-skills](https://github.com/dcs-soni/awesome-claude-skills) - A collection of custom Claude Code Skills to supercharge your development workflow. `Python` ⭐ 1 · Updated 1 month ago
 - [fileguard](https://github.com/dcs-soni/fileguard) - No description `TypeScript` ⭐ 0 · Updated 1 month ago
-- [trendsAI](https://github.com/dcs-soni/trendsAI) - A platform to discover trending AI apps and models, where users can explore, submit projects, and engage with the AI community `TypeScript` ⭐ 0 · Updated 2 months ago
+- [trendsAI](https://github.com/dcs-soni/trendsAI) - A platform to discover trending AI apps and models, where users can explore, submit projects, and engage with the AI community `TypeScript` ⭐ 0 · Updated 3 months ago
 - [envdiff](https://github.com/dcs-soni/envdiff) - No description `TypeScript` ⭐ 0 · Updated 3 months ago
 
 ## 📝 Latest Blog Posts
