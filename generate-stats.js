@@ -337,6 +337,7 @@ async function fetchUserReposWithCommits(
             nodes {
               name
               url
+              description
               defaultBranchRef {
                 target {
                   ... on Commit {
@@ -386,6 +387,7 @@ async function fetchUserReposWithCommits(
         repos.push({
           name: repo.name,
           url: repo.url,
+          description: repo.description,
           commits: commitCount,
           languages,
           additions: 0,
@@ -672,6 +674,9 @@ function processTemplate(template, data) {
           /\{\{\s*REPO_DELETIONS\s*\}\}/g,
           `$\\color{Red}{\\textsf{-${formatNumber(repo.deletions)}}}$`,
         );
+        const desc = repo.description || "No description provided.";
+        const shortDesc = desc.length > 80 ? desc.substring(0, 77) + "..." : desc;
+        item = item.replace(/\{\{\s*REPO_DESCRIPTION\s*\}\}/g, shortDesc);
         return item.trimEnd();
       })
       .join("\n");
