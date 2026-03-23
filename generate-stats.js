@@ -611,11 +611,11 @@ function processTemplate(template, data) {
   );
   result = result.replace(
     /\{\{\s*TOTAL_ADDITIONS_LAST_YEAR\s*\}\}/g,
-    `**+${formatNumber(data.totalAdditionsLastYear)}**`,
+    generateAdditionsBadge(`**+${formatNumber(data.totalAdditionsLastYear)}**`),
   );
   result = result.replace(
     /\{\{\s*TOTAL_DELETIONS_LAST_YEAR\s*\}\}/g,
-    `**-${formatNumber(data.totalDeletionsLastYear)}**`,
+    generateDeletionsBadge(`**-${formatNumber(data.totalDeletionsLastYear)}**`),
   );
   result = result.replace(
     /\{\{\s*TOTAL_ISSUES_ALL_TIME\s*\}\}/g,
