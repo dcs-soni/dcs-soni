@@ -18,52 +18,52 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **83** public repos | 🔥 **1,169** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2078%25) |
-| 🔥 **2,381** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%209%25) |
-| 📋 **20** issues | 🔀 **293** PRs | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
-| 🔀 **440** PRs | 🟢 **+233,831** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
-| ⭐ **35** stars | 🔴 **-45,715** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
+| 📦 **83** public repos | 🔥 **1,174** commits | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2076%25) |
+| 🔥 **2,419** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2011%25) |
+| 📋 **20** issues | 🔀 **297** PRs | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 🔀 **446** PRs | 🟢 **+232,095** lines added | ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%204%25) |
+| ⭐ **35** stars | 🔴 **-38,833** lines removed | ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%201%25) |
 
 ## 🚀 Most Recent Projects
 
-- [taskerra](https://github.com/dcs-soni/taskerra) - 147 commits, $\color{Green}{\textsf{+30,872}}$ / $\color{Red}{\textsf{-6,776}}$
-- [vault-key](https://github.com/dcs-soni/vault-key) - 67 commits, $\color{Green}{\textsf{+20,314}}$ / $\color{Red}{\textsf{-1,428}}$
-- [build-track](https://github.com/dcs-soni/build-track) - 55 commits, $\color{Green}{\textsf{+62,622}}$ / $\color{Red}{\textsf{-17,859}}$
-- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - 42 commits, $\color{Green}{\textsf{+15,900}}$ / $\color{Red}{\textsf{-1,385}}$
-- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - 39 commits, $\color{Green}{\textsf{+13,946}}$ / $\color{Red}{\textsf{-5,252}}$
-- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 34 commits, $\color{Green}{\textsf{+3,177}}$ / $\color{Red}{\textsf{-455}}$
-- [stash-it](https://github.com/dcs-soni/stash-it) - 33 commits, $\color{Green}{\textsf{+404}}$ / $\color{Red}{\textsf{-924}}$
-- [promptenhance](https://github.com/dcs-soni/promptenhance) - 24 commits, $\color{Green}{\textsf{+5,490}}$ / $\color{Red}{\textsf{-304}}$
-- [content-flux](https://github.com/dcs-soni/content-flux) - 19 commits, $\color{Green}{\textsf{+5,162}}$ / $\color{Red}{\textsf{-66}}$
-- [fileguard](https://github.com/dcs-soni/fileguard) - 19 commits, $\color{Green}{\textsf{+11,427}}$ / $\color{Red}{\textsf{-488}}$
-- [postmaster](https://github.com/dcs-soni/postmaster) - 19 commits, $\color{Green}{\textsf{+7,760}}$ / $\color{Red}{\textsf{-3,297}}$
-- [awesome-claude-skills](https://github.com/dcs-soni/awesome-claude-skills) - 18 commits, $\color{Green}{\textsf{+16,116}}$ / $\color{Red}{\textsf{-5}}$
-- [time-capsule](https://github.com/dcs-soni/time-capsule) - 11 commits, $\color{Green}{\textsf{+33,578}}$ / $\color{Red}{\textsf{-269}}$
-- [trendsAI](https://github.com/dcs-soni/trendsAI) - 5 commits, $\color{Green}{\textsf{+6,920}}$ / $\color{Red}{\textsf{-7,139}}$
-- [continue](https://github.com/dcs-soni/continue) - 5 commits, $\color{Green}{\textsf{+143}}$ / $\color{Red}{\textsf{-68}}$
+- [taskerra](https://github.com/dcs-soni/taskerra) - 147 commits, $\color{Green}{\textsf{+30,872}}$ / $\color{Red}{\textsf{-6,776}}$- *A project management tool that respects your workflow. Drag, drop, and delive...*
+- [vault-key](https://github.com/dcs-soni/vault-key) - 67 commits, $\color{Green}{\textsf{+20,314}}$ / $\color{Red}{\textsf{-1,428}}$- *A zero-knowledge password manager with AES-256 client-side encryption and loc...*
+- [build-track](https://github.com/dcs-soni/build-track) - 55 commits, $\color{Green}{\textsf{+62,622}}$ / $\color{Red}{\textsf{-17,859}}$- *No description provided.*
+- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 47 commits, $\color{Green}{\textsf{+3,315}}$ / $\color{Red}{\textsf{-579}}$- *No description provided.*
+- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - 42 commits, $\color{Green}{\textsf{+15,900}}$ / $\color{Red}{\textsf{-1,385}}$- *Save, search, and share your content intelligently with AI-powered semantic s...*
+- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - 39 commits, $\color{Green}{\textsf{+13,946}}$ / $\color{Red}{\textsf{-5,252}}$- *Image proxy + CDN for Notion-powered websites.*
+- [stash-it](https://github.com/dcs-soni/stash-it) - 33 commits, $\color{Green}{\textsf{+404}}$ / $\color{Red}{\textsf{-924}}$- *"Stash It" is a React and TypeScript-based web application for securely stori...*
+- [promptenhance](https://github.com/dcs-soni/promptenhance) - 24 commits, $\color{Green}{\textsf{+5,490}}$ / $\color{Red}{\textsf{-304}}$- *Add relevant code context to your AI prompts using semantic search and vector...*
+- [content-flux](https://github.com/dcs-soni/content-flux) - 19 commits, $\color{Green}{\textsf{+5,162}}$ / $\color{Red}{\textsf{-66}}$- *🤖 AI-powered content creation agent built with Portia SDK.*
+- [fileguard](https://github.com/dcs-soni/fileguard) - 19 commits, $\color{Green}{\textsf{+11,427}}$ / $\color{Red}{\textsf{-488}}$- *No description provided.*
+- [postmaster](https://github.com/dcs-soni/postmaster) - 19 commits, $\color{Green}{\textsf{+7,760}}$ / $\color{Red}{\textsf{-3,297}}$- *No description provided.*
+- [awesome-claude-skills](https://github.com/dcs-soni/awesome-claude-skills) - 18 commits, $\color{Green}{\textsf{+16,116}}$ / $\color{Red}{\textsf{-5}}$- *A collection of custom Claude Code Skills to supercharge your development wor...*
+- [time-capsule](https://github.com/dcs-soni/time-capsule) - 11 commits, $\color{Green}{\textsf{+33,578}}$ / $\color{Red}{\textsf{-269}}$- *Built a POC working personal archive site using Statamic (Laravel + PHP CMS)*
+- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - 6 commits, $\color{Green}{\textsf{+5,046}}$ / $\color{Red}{\textsf{-133}}$- *No description provided.*
+- [continue](https://github.com/dcs-soni/continue) - 5 commits, $\color{Green}{\textsf{+143}}$ / $\color{Red}{\textsf{-68}}$- *⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE...*
 
 ## 🛠️ Projects In Progress
 
-- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - No description `JavaScript` ⭐ 0 · Updated today
-- [assets](https://github.com/dcs-soni/assets) - No description `—` ⭐ 0 · Updated 1 week ago
-- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - Save, search, and share your content intelligently with AI-powered semantic search and shareable links. `TypeScript` ⭐ 0 · Updated 1 week ago
-- [build-track](https://github.com/dcs-soni/build-track) - No description `TypeScript` ⭐ 0 · Updated 2 weeks ago
-- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` ⭐ 1 · Updated 3 weeks ago
+- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - No description `JavaScript` ⭐ 0 · Updated yesterday
+- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - No description `TypeScript` ⭐ 0 · Updated 2 days ago
+- [assets](https://github.com/dcs-soni/assets) - No description `—` ⭐ 0 · Updated 2 weeks ago
+- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - Save, search, and share your content intelligently with AI-powered semantic search and shareable links. `TypeScript` ⭐ 0 · Updated 2 weeks ago
+- [build-track](https://github.com/dcs-soni/build-track) - No description `TypeScript` ⭐ 0 · Updated 3 weeks ago
+- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` ⭐ 1 · Updated 1 month ago
 - [postmaster](https://github.com/dcs-soni/postmaster) - No description `TypeScript` ⭐ 0 · Updated 1 month ago
 - [awesome-claude-skills](https://github.com/dcs-soni/awesome-claude-skills) - A collection of custom Claude Code Skills to supercharge your development workflow. `Python` ⭐ 1 · Updated 1 month ago
-- [fileguard](https://github.com/dcs-soni/fileguard) - No description `TypeScript` ⭐ 0 · Updated 1 month ago
+- [fileguard](https://github.com/dcs-soni/fileguard) - No description `TypeScript` ⭐ 0 · Updated 2 months ago
 - [trendsAI](https://github.com/dcs-soni/trendsAI) - A platform to discover trending AI apps and models, where users can explore, submit projects, and engage with the AI community `TypeScript` ⭐ 0 · Updated 3 months ago
-- [envdiff](https://github.com/dcs-soni/envdiff) - No description `TypeScript` ⭐ 0 · Updated 3 months ago
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
+* [Thundering Herd](https://divyanshusoni.com/blog/thundering-herd)
 * [Vector Databases: Beyond Keyword Matching](https://divyanshusoni.com/blog/vector-databases-beyond-keyword-matching)
 * [How AI Coding Tools Are Rewiring Software Development](https://divyanshusoni.com/blog/how-ai-coding-tools-are-rewiring-software-development)
 * [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
 * [Subscribers in PKI: Who Actually Uses the Certificates](https://dev.to/dcs-soni/subscribers-in-pki-who-actually-uses-the-certificates-42od)
-* [Private Certificate Authorities: Building Trust Inside Your Organization](https://dev.to/dcs-soni/private-certificate-authorities-building-trust-inside-your-organization-4dkk)
 
 <!-- BLOG-POST-LIST:END -->
 
