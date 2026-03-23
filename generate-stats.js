@@ -913,8 +913,8 @@ async function main() {
         `🔥 **${formatNumber(totalCommitsLastYear)}** commits`,
         `📝 **${formatNumber(totalIssuesLastYear)}** issues`,
         `🔀 **${formatNumber(totalPRsLastYear)}** PRs`,
-        `🟢 **+${formatNumber(totalAdditionsLastYear)}** lines added`,
-        `🔴 **-${formatNumber(totalDeletionsLastYear)}** lines removed`,
+        `${generateAdditionsBadge(totalAdditionsLastYear)} lines added`,
+        `${generateDeletionsBadge(totalDeletionsLastYear)} lines removed`,
       ];
       for (let i = 0; i < 5; i++) {
         const lang = topLanguages[i];
