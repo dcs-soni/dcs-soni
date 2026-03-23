@@ -558,7 +558,7 @@ function calculateTopLanguages(repos, topN = 5, languageColors) {
 function generateLanguageBadge(lang) {
   const color = encodeURIComponent(lang.color);
   const message = encodeURIComponent(`${lang.name} ${lang.percentage}%`);
-  return `![${lang.name}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=${color}&message=${message})`;
+  return `![${lang.name}](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=${color}&message=${message})`;
 }
 
 function processTemplate(template, data) {
