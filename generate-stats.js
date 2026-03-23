@@ -561,6 +561,18 @@ function generateLanguageBadge(lang) {
   return `![${lang.name}](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=${color}&message=${message})`;
 }
 
+function generateAdditionsBadge(n) {
+  const formatted = formatNumber(n);
+  const encodedMessage = encodeURIComponent(`+${formatted}`);
+  return `![+${formatted}](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=${encodedMessage})`;
+}
+
+function generateDeletionsBadge(n) {
+  const formatted = formatNumber(n);
+  const encodedMessage = encodeURIComponent(`-${formatted}`);
+  return `![-${formatted}](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=${encodedMessage})`;
+}
+
 function processTemplate(template, data) {
   let result = template;
 
@@ -668,11 +680,11 @@ function processTemplate(template, data) {
         );
         item = item.replace(
           /\{\{\s*REPO_ADDITIONS\s*\}\}/g,
-          `$\\color{Green}{\\textsf{+${formatNumber(repo.additions)}}}$`,
+          generateAdditionsBadge(repo.additions),
         );
         item = item.replace(
           /\{\{\s*REPO_DELETIONS\s*\}\}/g,
-          `$\\color{Red}{\\textsf{-${formatNumber(repo.deletions)}}}$`,
+          generateDeletionsBadge(repo.deletions),
         );
         const desc = repo.description || "No description provided.";
         const shortDesc = desc.length > 80 ? desc.substring(0, 77) + "..." : desc;
