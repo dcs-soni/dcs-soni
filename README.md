@@ -18,20 +18,20 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **88** public repos | 🔥 **1,232** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2076%25) |
-| 🔥 **2,500** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2014%25) |
-| 📋 **20** issues | 🔀 **300** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
-| 🔀 **454** PRs | ![+249,858](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B249%2C858) lines added | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
-| ⭐ **35** stars | ![-55,877](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-55%2C877) lines removed | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%201%25) |
+| 📦 **88** public repos | 🔥 **1,243** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2076%25) |
+| 🔥 **2,511** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2014%25) |
+| 📋 **20** issues | 🔀 **301** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
+| 🔀 **455** PRs | ![+252,857](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B252%2C857) lines added | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
+| ⭐ **35** stars | ![-56,991](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-56%2C991) lines removed | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%201%25) |
 
 ## 🚀 Most Recent Projects
 
 - [taskerra](https://github.com/dcs-soni/taskerra) - 147 commits, ![+30,872](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B30%2C872) ![-6,776](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C776) - *A project management tool that respects your workflow. Drag, drop, and delive...*
-- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 71 commits, ![+3,609](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C609) ![-861](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-861) - *No description provided.*
+- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - 72 commits, ![+3,621](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C621) ![-873](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-873) - *No description provided.*
+- [build-track](https://github.com/dcs-soni/build-track) - 61 commits, ![+65,588](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B65%2C588) ![-18,961](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-18%2C961) - *A multi-tenant construction management platform to streamline projects, budge...*
 - [vault-key](https://github.com/dcs-soni/vault-key) - 55 commits, ![+14,781](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B14%2C781) ![-1,327](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C327) - *A zero-knowledge password manager with AES-256 client-side encryption and loc...*
-- [build-track](https://github.com/dcs-soni/build-track) - 55 commits, ![+62,622](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B62%2C622) ![-17,859](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-17%2C859) - *A multi-tenant construction management platform to streamline projects, budge...*
 - [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - 51 commits, ![+16,850](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B16%2C850) ![-1,991](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C991) - *Save, search, and share your content intelligently with AI-powered semantic s...*
-- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - 50 commits, ![+18,207](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B18%2C207) ![-5,786](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C786) - *Image proxy + CDN for Notion-powered websites.*
+- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - 51 commits, ![+18,228](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B18%2C228) ![-5,786](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C786) - *Image proxy + CDN for Notion-powered websites.*
 - [stash-it](https://github.com/dcs-soni/stash-it) - 33 commits, ![+404](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B404) ![-924](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-924) - *"Stash It" is a React and TypeScript-based web application for securely stori...*
 - [promptenhance](https://github.com/dcs-soni/promptenhance) - 29 commits, ![+8,713](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B8%2C713) ![-3,337](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C337) - *Add relevant code context to your AI prompts using semantic search and vector...*
 - [postmaster](https://github.com/dcs-soni/postmaster) - 25 commits, ![+9,551](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B9%2C551) ![-3,872](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C872) - *A lightweight, secure API testing tool with a built-in CORS proxy server to t...*
@@ -44,16 +44,16 @@ Joined GitHub **6** years ago.
 
 ## 🛠️ Projects In Progress
 
-- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - No description `JavaScript` · Updated today
-- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` · Updated yesterday
-- [promptenhance](https://github.com/dcs-soni/promptenhance) - Add relevant code context to your AI prompts using semantic search and vector embeddings. `TypeScript` · Updated 5 days ago
-- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - Save, search, and share your content intelligently with AI-powered semantic search and shareable links. `TypeScript` · Updated 5 days ago
+- [build-track](https://github.com/dcs-soni/build-track) - A multi-tenant construction management platform to streamline projects, budgets, RFIs, and equipment tracking. `TypeScript` · Updated today
+- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` · Updated today
+- [dcs-soni](https://github.com/dcs-soni/dcs-soni) - No description `JavaScript` · Updated yesterday
+- [promptenhance](https://github.com/dcs-soni/promptenhance) - Add relevant code context to your AI prompts using semantic search and vector embeddings. `TypeScript` · Updated 6 days ago
+- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - Save, search, and share your content intelligently with AI-powered semantic search and shareable links. `TypeScript` · Updated 6 days ago
 - [postmaster](https://github.com/dcs-soni/postmaster) - A lightweight, secure API testing tool with a built-in CORS proxy server to test HTTP endpoints directly from your browser without restrictions. `TypeScript` · Updated 1 week ago
 - [cabo](https://github.com/dcs-soni/cabo) - Real-time multiplayer Cabo card game. `TypeScript` · Updated 1 week ago
 - [gitscribe](https://github.com/dcs-soni/gitscribe) - AI-powered CLI for generating conventional commits, changelogs, and release notes using LLMs. `TypeScript` · Updated 1 week ago
 - [curl-to-code](https://github.com/dcs-soni/curl-to-code) - No description `TypeScript` · Updated 1 week ago
 - [assets](https://github.com/dcs-soni/assets) - No description `—` · Updated 3 weeks ago
-- [promptdiff](https://github.com/dcs-soni/promptdiff) - No description `TypeScript` · Updated 1 month ago
 
 ## 📝 Latest Blog Posts
 
