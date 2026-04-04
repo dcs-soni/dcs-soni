@@ -40,6 +40,9 @@ const LANGUAGE_COLORS = {
   Default: "#555555",
 };
 
+// Repos to exclude from "Most Recent Projects" and "Projects In Progress" sections
+const EXCLUDED_REPOS = ["dcs-soni"];
+
 const CACHE_FILE = path.join(__dirname, "language-colors-cache.json");
 const STATS_CACHE_FILE = path.join(__dirname, "stats-cache.json");
 const STATS_CACHE_MAX_AGE = 30 * 24 * 60 * 60 * 1000;
@@ -484,6 +487,7 @@ async function fetchRecentRepos(token, username, count = 8) {
 
   const data = await graphqlQuery(token, query, { username });
   return data.user.repositories.nodes
+    .filter((repo) => !EXCLUDED_REPOS.includes(repo.name))
     .slice(0, count)
     .map((repo) => ({
       name: repo.name,
@@ -849,6 +853,7 @@ async function main() {
   );
 
   const topRepos = reposWithCommits
+    .filter((r) => !EXCLUDED_REPOS.includes(r.name))
     .sort((a, b) => b.commits - a.commits)
     .slice(0, 15);
 
