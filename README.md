@@ -18,10 +18,10 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **88** public repos | 🔥 **1,261** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2076%25) |
-| 🔥 **2,752** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2014%25) |
-| 📋 **20** issues | 🔀 **301** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
-| 🔀 **479** PRs | ![+256,149](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B256%2C149) lines added | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
+| 📦 **88** public repos | 🔥 **1,264** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2076%25) |
+| 🔥 **2,755** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2014%25) |
+| 📋 **20** issues | 🔀 **302** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
+| 🔀 **480** PRs | ![+256,149](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B256%2C149) lines added | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 | ⭐ **35** stars | ![-56,538](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-56%2C538) lines removed | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%201%25) |
 
 ## 🚀 Most Recent Projects
@@ -39,12 +39,12 @@ Joined GitHub **6** years ago.
 - [content-flux](https://github.com/dcs-soni/content-flux) - 19 commits, ![+5,162](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C162) ![-66](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-66) - *🤖 AI-powered content creation agent built with Portia SDK.*
 - [fileguard](https://github.com/dcs-soni/fileguard) - 19 commits, ![+11,427](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B11%2C427) ![-488](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-488) - *A file virus scanning API featuring asynchronous queue processing via BullMQ ...*
 - [awesome-claude-skills](https://github.com/dcs-soni/awesome-claude-skills) - 18 commits, ![+16,116](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B16%2C116) ![-5](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5) - *A collection of custom Claude Code Skills to supercharge your development wor...*
-- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - 17 commits, ![+6,913](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C913) ![-420](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-420) - *No description provided.*
+- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - 17 commits, ![+6,913](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C913) ![-420](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-420) - *A CLI tool to generate TypeScript interfaces, Zod schemas, and fetch clients ...*
 - [gitscribe](https://github.com/dcs-soni/gitscribe) - 13 commits, ![+6,616](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C616) ![-70](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-70) - *AI-powered CLI for generating conventional commits, changelogs, and release n...*
 
 ## 🛠️ Projects In Progress
 
-- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - No description `TypeScript` · Updated today
+- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - A CLI tool to generate TypeScript interfaces, Zod schemas, and fetch clients directly from cURL commands. `TypeScript` · Updated today
 - [build-track](https://github.com/dcs-soni/build-track) - A multi-tenant construction management platform to streamline projects, budgets, RFIs, and equipment tracking. `TypeScript` · Updated 2 days ago
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` · Updated 2 days ago
 - [promptenhance](https://github.com/dcs-soni/promptenhance) - Add relevant code context to your AI prompts using semantic search and vector embeddings. `TypeScript` · Updated 1 week ago
