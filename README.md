@@ -18,9 +18,9 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **88** public repos | 🔥 **1,264** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2076%25) |
-| 🔥 **2,755** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2014%25) |
-| 📋 **20** issues | 🔀 **302** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
+| 📦 **89** public repos | 🔥 **1,269** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2075%25) |
+| 🔥 **2,760** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2014%25) |
+| 📋 **20** issues | 🔀 **302** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
 | 🔀 **480** PRs | ![+256,149](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B256%2C149) lines added | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 | ⭐ **35** stars | ![-56,538](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-56%2C538) lines removed | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%201%25) |
 
@@ -44,16 +44,16 @@ Joined GitHub **6** years ago.
 
 ## 🛠️ Projects In Progress
 
-- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - A CLI tool to generate TypeScript interfaces, Zod schemas, and fetch clients directly from cURL commands. `TypeScript` · Updated today
-- [build-track](https://github.com/dcs-soni/build-track) - A multi-tenant construction management platform to streamline projects, budgets, RFIs, and equipment tracking. `TypeScript` · Updated 2 days ago
-- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` · Updated 2 days ago
+- [RAGent](https://github.com/dcs-soni/RAGent) - Self-Corrective RAG Agent built with LangGraph  `Python` · Updated today
+- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - A CLI tool to generate TypeScript interfaces, Zod schemas, and fetch clients directly from cURL commands. `TypeScript` · Updated yesterday
+- [build-track](https://github.com/dcs-soni/build-track) - A multi-tenant construction management platform to streamline projects, budgets, RFIs, and equipment tracking. `TypeScript` · Updated 3 days ago
+- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - Image proxy + CDN for Notion-powered websites. `TypeScript` · Updated 3 days ago
 - [promptenhance](https://github.com/dcs-soni/promptenhance) - Add relevant code context to your AI prompts using semantic search and vector embeddings. `TypeScript` · Updated 1 week ago
 - [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - Save, search, and share your content intelligently with AI-powered semantic search and shareable links. `TypeScript` · Updated 1 week ago
 - [postmaster](https://github.com/dcs-soni/postmaster) - A lightweight, secure API testing tool with a built-in CORS proxy server to test HTTP endpoints directly from your browser without restrictions. `TypeScript` · Updated 1 week ago
 - [cabo](https://github.com/dcs-soni/cabo) - Real-time multiplayer Cabo card game. `TypeScript` · Updated 1 week ago
 - [gitscribe](https://github.com/dcs-soni/gitscribe) - AI-powered CLI for generating conventional commits, changelogs, and release notes using LLMs. `TypeScript` · Updated 1 week ago
-- [assets](https://github.com/dcs-soni/assets) - No description `—` · Updated 4 weeks ago
-- [promptdiff](https://github.com/dcs-soni/promptdiff) - No description `TypeScript` · Updated 1 month ago
+- [assets](https://github.com/dcs-soni/assets) - No description `—` · Updated 1 month ago
 
 ## 📝 Latest Blog Posts
 
