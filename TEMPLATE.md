@@ -1,6 +1,6 @@
 # Hi, I'm Divyanshu Soni 👋
 
-📍 **India** | 🛠️ **Full Stack Developer** | Ex - JetBrains Academy | [**https://divyanshusoni.com**](https://divyanshusoni.com)
+📍 **India** | 🛠️ **Software Engineer** | Ex - JetBrains Academy | [**https://divyanshusoni.com**](https://divyanshusoni.com)
 
 > I build products, explore AI Agents, break things, and share what I learn along the way!
 
