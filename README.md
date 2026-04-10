@@ -18,8 +18,8 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **90** public repos | 🔥 **1,295** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2075%25) |
-| 🔥 **2,800** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2015%25) |
+| 📦 **90** public repos | 🔥 **1,298** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2074%25) |
+| 🔥 **2,803** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2015%25) |
 | 📋 **20** issues | 🔀 **305** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
 | 🔀 **487** PRs | ![+252,196](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B252%2C196) lines added | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 | ⭐ **35** stars | ![-57,253](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-57%2C253) lines removed | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%201%25) |
@@ -64,6 +64,8 @@ Joined GitHub **6** years ago.
 * [How AI Coding Tools Are Rewiring Software Development](https://divyanshusoni.com/blog/how-ai-coding-tools-are-rewiring-software-development)
 * [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
 * [Subscribers in PKI: Who Actually Uses the Certificates](https://dev.to/dcs-soni/subscribers-in-pki-who-actually-uses-the-certificates-42od)
+* [Private Certificate Authorities: Building Trust Inside Your Organization](https://dev.to/dcs-soni/private-certificate-authorities-building-trust-inside-your-organization-4dkk)
+* [PKI 101: Why Public Key Infrastructure matters](https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m)
 
 <!-- BLOG-POST-LIST:END -->
 
