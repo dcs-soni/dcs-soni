@@ -905,7 +905,7 @@ async function main() {
   console.log(`   Found ${recentRepos.length} recent repos\n`);
 
   console.log("Fetching blog posts from divyanshusoni.com");
-  const blogPosts = await fetchBlogPosts(5);
+  const blogPosts = await fetchBlogPosts(10);
   console.log(`   Found ${blogPosts.length} blog posts\n`);
 
   const statsData = {
