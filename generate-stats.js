@@ -499,11 +499,28 @@ async function fetchRecentRepos(token, username, count = 8) {
     }));
 }
 
-async function fetchBlogPosts(count = 5) {
+async function fetchBlogPosts(count = 10) {
   try {
     const parser = new Parser();
     const feed = await parser.parseURL("https://divyanshusoni.com/rss.xml");
-    return feed.items.slice(0, count).map((item) => ({
+    return feed.items
+      .filter((item) => {
+        const hasTag =
+          item.categories &&
+          item.categories.some((tag) => {
+            const t = tag.toLowerCase();
+            return t === "blog" || t === "tech" || t === "dev.to";
+          });
+
+        const inLink =
+          item.link.includes("blog") ||
+          item.link.includes("tech") ||
+          item.link.includes("dev.to");
+
+        return hasTag || inLink;
+      })
+      .slice(0, count)
+      .map((item) => ({
       title: item.title,
       url: item.link,
     }));
