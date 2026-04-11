@@ -457,7 +457,7 @@ async function fetchRepoCommitStats(token, owner, repoName, userId, since) {
   return { additions, deletions };
 }
 
-async function fetchRecentRepos(token, username, count = 8) {
+async function fetchRecentRepos(token, username, userId, count = 20, languageColors) {
   const fetchCount = count * 3; // Over-fetch to account for filtered forks
   const query = `
     query($username: String!) {
@@ -479,6 +479,12 @@ async function fetchRecentRepos(token, username, count = 8) {
               name
               color
             }
+            languages(first: 10) {
+              edges {
+                size
+                node { name, color }
+              }
+            }
           }
         }
       }
@@ -489,14 +495,28 @@ async function fetchRecentRepos(token, username, count = 8) {
   return data.user.repositories.nodes
     .filter((repo) => !EXCLUDED_REPOS.includes(repo.name))
     .slice(0, count)
-    .map((repo) => ({
-      name: repo.name,
-      url: repo.url,
-      description: repo.description || "No description",
-      language: repo.primaryLanguage?.name || "—",
-      stars: repo.stargazerCount,
-      updatedAt: formatRelativeDate(new Date(repo.pushedAt)),
-    }));
+    .map((repo) => {
+      const totalLangSize = repo.languages.edges.reduce(
+        (sum, e) => sum + e.size,
+        0,
+      );
+      const languages = repo.languages.edges.map((e) => ({
+        name: e.node.name,
+        percentage: totalLangSize > 0 ? (e.size / totalLangSize) * 100 : 0,
+        color: getLanguageColor(e.node.name, e.node.color, languageColors),
+      }));
+      return {
+        name: repo.name,
+        url: repo.url,
+        description: repo.description || "No description",
+        language: repo.primaryLanguage?.name || "—",
+        stars: repo.stargazerCount,
+        updatedAt: formatRelativeDate(new Date(repo.pushedAt)),
+        languages,
+        additions: 0,
+        deletions: 0,
+      };
+    });
 }
 
 async function fetchBlogPosts(count = 10) {
@@ -696,10 +716,6 @@ function processTemplate(template, data) {
         item = item.replace(/\{\{\s*REPO_NAME\s*\}\}/g, repo.name);
         item = item.replace(/\{\{\s*REPO_URL\s*\}\}/g, repo.url);
         item = item.replace(
-          /\{\{\s*REPO_COMMITS\s*\}\}/g,
-          formatNumber(repo.commits),
-        );
-        item = item.replace(
           /\{\{\s*REPO_ADDITIONS\s*\}\}/g,
           generateAdditionsBadge(repo.additions),
         );
@@ -719,38 +735,7 @@ function processTemplate(template, data) {
     );
   }
 
-  // Recent repos template block (projects in progress)
-  const recentMatch = result.match(
-    /\{\{\s*RECENT_REPOS_START\s*\}\}([\s\S]*?)\{\{\s*RECENT_REPOS_END\s*\}\}/,
-  );
-  if (recentMatch) {
-    const recentTemplate = recentMatch[1].trim();
-    const recentItems = data.recentRepos
-      .map((repo) => {
-        let item = recentTemplate;
-        item = item.replace(/\{\{\s*RECENT_REPO_NAME\s*\}\}/g, repo.name);
-        item = item.replace(/\{\{\s*RECENT_REPO_URL\s*\}\}/g, repo.url);
-        item = item.replace(
-          /\{\{\s*RECENT_REPO_DESCRIPTION\s*\}\}/g,
-          repo.description,
-        );
-        item = item.replace(
-          /\{\{\s*RECENT_REPO_LANGUAGE\s*\}\}/g,
-          repo.language,
-        );
-        item = item.replace(/\{\{\s*RECENT_REPO_STARS\s*\}\}/g, repo.stars);
-        item = item.replace(
-          /\{\{\s*RECENT_REPO_UPDATED\s*\}\}/g,
-          repo.updatedAt,
-        );
-        return item.trimEnd();
-      })
-      .join("\n");
-    result = result.replace(
-      /\{\{\s*RECENT_REPOS_START\s*\}\}[\s\S]*?\{\{\s*RECENT_REPOS_END\s*\}\}/,
-      recentItems,
-    );
-  }
+
 
   // Blog posts
   if (data.blogPosts && data.blogPosts.length > 0) {
@@ -869,12 +854,18 @@ async function main() {
     `Top languages: ${topLanguages.map((l) => `${l.name} (${l.percentage}%)`).join(", ")}\n`,
   );
 
-  const topRepos = reposWithCommits
-    .filter((r) => !EXCLUDED_REPOS.includes(r.name))
-    .sort((a, b) => b.commits - a.commits)
-    .slice(0, 15);
+  // Fetch 20 recently-pushed repos (for the unified "Current Projects" section)
+  console.log("Fetching 20 recently updated repos");
+  const topRepos = await fetchRecentRepos(
+    token,
+    viewer.login,
+    viewer.id,
+    20,
+    languageColors,
+  );
+  console.log(`   Found ${topRepos.length} repos\n`);
 
-  console.log("Fetching additions/deletions for top repos");
+  console.log("Fetching additions/deletions for current projects");
   let totalAdditionsLastYear = 0,
     totalDeletionsLastYear = 0;
 
@@ -899,10 +890,6 @@ async function main() {
 
   const starsReceived = await fetchTotalStars(token);
   console.log(`   Total stars: ${starsReceived}\n`);
-
-  console.log("Fetching recently updated repos");
-  const recentRepos = await fetchRecentRepos(token, viewer.login, 10);
-  console.log(`   Found ${recentRepos.length} recent repos\n`);
 
   console.log("Fetching blog posts from divyanshusoni.com");
   const blogPosts = await fetchBlogPosts(10);
@@ -946,7 +933,6 @@ async function main() {
       return rows.join("\n");
     })(),
     topRepos,
-    recentRepos,
     blogPosts,
   };
 

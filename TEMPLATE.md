@@ -20,17 +20,11 @@ Joined GitHub **{{ ACCOUNT_AGE }}** years ago.
 | -------- | --------- | ------------------------- |
 {{ TOP_LANGUAGES_ROWS }}
 
-## 🚀 Most Recent Projects
+## 🚀 Current Projects
 
 {{ REPO_TEMPLATE_START }}
-- [{{ REPO_NAME }}]({{ REPO_URL }}) - {{ REPO_COMMITS }} commits, {{ REPO_ADDITIONS }} {{ REPO_DELETIONS }} - *{{ REPO_DESCRIPTION }}*
+- [{{ REPO_NAME }}]({{ REPO_URL }}) - {{ REPO_ADDITIONS }} {{ REPO_DELETIONS }} - *{{ REPO_DESCRIPTION }}*
 {{ REPO_TEMPLATE_END }}
-
-## 🛠️ Projects In Progress
-
-{{ RECENT_REPOS_START }}
-- [{{ RECENT_REPO_NAME }}]({{ RECENT_REPO_URL }}) - {{ RECENT_REPO_DESCRIPTION }} `{{ RECENT_REPO_LANGUAGE }}` · Updated {{ RECENT_REPO_UPDATED }}
-{{ RECENT_REPOS_END }}
 
 ## 📝 Latest Blog Posts
 
