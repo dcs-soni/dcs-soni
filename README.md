@@ -18,10 +18,10 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **90** public repos | 🔥 **1,310** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2074%25) |
-| 🔥 **2,820** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2016%25) |
-| 📋 **20** issues | 🔀 **308** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%206%25) |
-| 🔀 **492** PRs | ![+291,171](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B291%2C171) lines added | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
+| 📦 **90** public repos | 🔥 **1,313** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2073%25) |
+| 🔥 **2,834** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2017%25) |
+| 📋 **20** issues | 🔀 **309** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 🔀 **498** PRs | ![+291,171](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B291%2C171) lines added | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%203%25) |
 | ⭐ **35** stars | ![-62,802](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-62%2C802) lines removed | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%201%25) |
 
 ## 🚀 Current Projects
@@ -29,7 +29,7 @@ Joined GitHub **6** years ago.
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - ![+18,772](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B18%2C772) ![-5,944](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C944) - *Image proxy + CDN for Notion-powered websites.*
 - [build-track](https://github.com/dcs-soni/build-track) - ![+66,299](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B66%2C299) ![-19,660](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-19%2C660) - *A multi-tenant construction management platform to streamline projects, budge...*
 - [promptdiff](https://github.com/dcs-soni/promptdiff) - ![+3,861](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C861) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *No description*
-- [RAGent](https://github.com/dcs-soni/RAGent) - ![+3,932](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C932) ![-462](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-462) - *Self-Corrective RAG Agent built with LangGraph *
+- [RAGent](https://github.com/dcs-soni/RAGent) - ![+3,932](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C932) ![-462](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-462) - *Self-Corrective RAG Agent built with LangGraph*
 - [curl-to-code](https://github.com/dcs-soni/curl-to-code) - ![+6,913](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C913) ![-420](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-420) - *A CLI tool to generate TypeScript interfaces, Zod schemas, and fetch clients ...*
 - [promptenhance](https://github.com/dcs-soni/promptenhance) - ![+8,713](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B8%2C713) ![-3,337](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C337) - *Add relevant code context to your AI prompts using semantic search and vector...*
 - [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - ![+16,850](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B16%2C850) ![-1,991](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C991) - *Save, search, and share your content intelligently with AI-powered semantic s...*
