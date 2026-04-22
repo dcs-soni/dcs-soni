@@ -18,15 +18,15 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **1,343** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2070%25) |
-| 🔥 **2,894** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2017%25) |
-| 📋 **20** issues | 🔀 **310** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
-| 🔀 **513** PRs | ![+288,623](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B288%2C623) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%204%25) |
-| ⭐ **35** stars | ![-64,561](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-64%2C561) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
+| 📦 **92** public repos | 🔥 **1,348** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2070%25) |
+| 🔥 **2,899** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2017%25) |
+| 📋 **20** issues | 🔀 **311** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 🔀 **514** PRs | ![+291,049](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B291%2C049) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%204%25) |
+| ⭐ **35** stars | ![-64,571](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-64%2C571) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
 
 ## 🚀 Current Projects
 
-- [distill](https://github.com/dcs-soni/distill) - ![+21,810](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B21%2C810) ![-1,269](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C269) - *No description*
+- [distill](https://github.com/dcs-soni/distill) - ![+24,236](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B24%2C236) ![-1,279](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C279) - *No description*
 - [RAGent](https://github.com/dcs-soni/RAGent) - ![+5,062](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C062) ![-1,222](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C222) - *Self-Corrective RAG Agent built with LangGraph*
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - ![+18,772](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B18%2C772) ![-5,944](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C944) - *Image proxy + CDN for Notion-powered websites.*
 - [build-track](https://github.com/dcs-soni/build-track) - ![+66,299](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B66%2C299) ![-19,660](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-19%2C660) - *A multi-tenant construction management platform to streamline projects, budge...*
