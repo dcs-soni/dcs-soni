@@ -18,15 +18,15 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **1,366** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2072%25) |
-| 🔥 **2,944** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2017%25) |
-| 📋 **20** issues | 🔀 **321** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
-| 🔀 **525** PRs | ![+321,668](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B321%2C668) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
-| ⭐ **35** stars | ![-68,455](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-68%2C455) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
+| 📦 **92** public repos | 🔥 **1,380** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2072%25) |
+| 🔥 **2,958** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2017%25) |
+| 📋 **20** issues | 🔀 **324** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 🔀 **528** PRs | ![+322,288](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B322%2C288) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| ⭐ **35** stars | ![-68,613](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-68%2C613) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
 
 ## 🚀 Current Projects
 
-- [distill](https://github.com/dcs-soni/distill) - ![+54,821](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B54%2C821) ![-5,162](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C162) - *No description*
+- [distill](https://github.com/dcs-soni/distill) - ![+55,441](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B55%2C441) ![-5,320](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C320) - *No description*
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - ![+18,806](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B18%2C806) ![-5,945](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C945) - *Image proxy + CDN for Notion-powered websites.*
 - [RAGent](https://github.com/dcs-soni/RAGent) - ![+5,062](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C062) ![-1,222](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C222) - *Self-Corrective RAG Agent built with LangGraph*
 - [build-track](https://github.com/dcs-soni/build-track) - ![+66,299](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B66%2C299) ![-19,660](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-19%2C660) - *A multi-tenant construction management platform to streamline projects, budge...*
@@ -51,6 +51,7 @@ Joined GitHub **6** years ago.
 
 <!-- BLOG-POST-LIST:START -->
 
+* [Building ReflectRAG - What Tutorials Won’t Tell You About RAG](https://divyanshusoni.com/blog/building-reflect-rag)
 * [Thundering Herd](https://divyanshusoni.com/blog/thundering-herd)
 * [Vector Databases: Beyond Keyword Matching](https://divyanshusoni.com/blog/vector-databases-beyond-keyword-matching)
 * [How AI Coding Tools Are Rewiring Software Development](https://divyanshusoni.com/blog/how-ai-coding-tools-are-rewiring-software-development)
