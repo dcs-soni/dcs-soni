@@ -43,6 +43,19 @@ const LANGUAGE_COLORS = {
 // Repos to exclude from "Most Recent Projects" and "Projects In Progress" sections
 const EXCLUDED_REPOS = ["dcs-soni"];
 
+const PRIVATE_PROJECTS = [
+  {
+    name: "Ascend Academy",
+    url: "https://academyascend.in",
+    description: "An automated academy ERP that eliminates administrative work by centralizing student orchestration, fee tracking, payroll processing, and lead CRM into a unified, role-based platform.",
+  },
+  {
+    name: "Build Track",
+    url: "https://buildtrack.divyanshusoni.com",
+    description: "A multi-tenant construction management platform to streamline projects, budgets, RFIs, and equipment tracking.",
+  }
+];
+
 const CACHE_FILE = path.join(__dirname, "language-colors-cache.json");
 const STATS_CACHE_FILE = path.join(__dirname, "stats-cache.json");
 const STATS_CACHE_MAX_AGE = 30 * 24 * 60 * 60 * 1000;
@@ -717,11 +730,11 @@ function processTemplate(template, data) {
         item = item.replace(/\{\{\s*REPO_URL\s*\}\}/g, repo.url);
         item = item.replace(
           /\{\{\s*REPO_ADDITIONS\s*\}\}/g,
-          generateAdditionsBadge(repo.additions),
+          repo.isPrivate ? "🔒 Private" : generateAdditionsBadge(repo.additions),
         );
         item = item.replace(
           /\{\{\s*REPO_DELETIONS\s*\}\}/g,
-          generateDeletionsBadge(repo.deletions),
+          repo.isPrivate ? "" : generateDeletionsBadge(repo.deletions),
         );
         const desc = repo.description || "No description provided.";
         const shortDesc = desc.length > 80 ? desc.substring(0, 77) + "..." : desc;
@@ -887,6 +900,16 @@ async function main() {
   console.log(
     `   Total: +${totalAdditionsLastYear} / -${totalDeletionsLastYear}\n`,
   );
+
+  const privateProjectsToInject = PRIVATE_PROJECTS.map(p => ({
+    name: p.name,
+    url: p.url,
+    description: p.description,
+    isPrivate: true,
+  }));
+  
+  if (privateProjectsToInject.length > 0) topRepos.splice(2, 0, privateProjectsToInject[0]);
+  if (privateProjectsToInject.length > 1) topRepos.splice(3, 0, privateProjectsToInject[1]);
 
   const starsReceived = await fetchTotalStars(token);
   console.log(`   Total stars: ${starsReceived}\n`);
