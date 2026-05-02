@@ -1,5 +1,5 @@
 {
-  "timestamp": 1777606055578,
+  "timestamp": 1777699420048,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -540,6 +540,7 @@
     "Snakemake": "#419179",
     "Solidity": "#AA6746",
     "SourcePawn": "#f69e1d",
+    "SpiceDB Schema": "#a5318a",
     "Squirrel": "#800000",
     "Stan": "#b2011d",
     "Standard ML": "#dc566d",

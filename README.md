@@ -18,8 +18,8 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **91** public repos | 🔥 **1,421** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2069%25) |
-| 🔥 **3,001** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2018%25) |
+| 📦 **91** public repos | 🔥 **1,423** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2069%25) |
+| 🔥 **3,003** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2019%25) |
 | 📋 **20** issues | 🔀 **339** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
 | 🔀 **543** PRs | ![+290,557](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B290%2C557) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
 | ⭐ **35** stars | ![-49,224](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C224) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
@@ -28,6 +28,8 @@ Joined GitHub **6** years ago.
 
 - [distill](https://github.com/dcs-soni/distill) - ![+56,431](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B56%2C431) ![-5,322](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C322) - *An enterprise-grade microservices platform for extracting structured financia...*
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - ![+18,806](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B18%2C806) ![-5,945](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C945) - *Image proxy + CDN for Notion-powered websites.*
+- [Ascend Academy](https://academyascend.in) - 🔒 Private  - *An automated academy ERP that eliminates administrative work by centralizing ...*
+- [Build Track](https://buildtrack.divyanshusoni.com) - 🔒 Private  - *A multi-tenant construction management platform to streamline projects, budge...*
 - [RAGent](https://github.com/dcs-soni/RAGent) - ![+5,062](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C062) ![-1,222](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C222) - *Self-Corrective RAG Agent built with LangGraph*
 - [promptdiff](https://github.com/dcs-soni/promptdiff) - ![+3,861](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C861) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *No description*
 - [curl-to-code](https://github.com/dcs-soni/curl-to-code) - ![+6,913](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C913) ![-420](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-420) - *A CLI tool to generate TypeScript interfaces, Zod schemas, and fetch clients ...*
