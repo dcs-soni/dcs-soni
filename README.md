@@ -18,16 +18,15 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **1,405** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2072%25) |
-| 🔥 **2,985** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2017%25) |
-| 📋 **20** issues | 🔀 **335** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
-| 🔀 **539** PRs | ![+353,910](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B353%2C910) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
-| ⭐ **35** stars | ![-99,082](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-99%2C082) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
+| 📦 **91** public repos | 🔥 **1,421** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2069%25) |
+| 🔥 **3,001** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2018%25) |
+| 📋 **20** issues | 🔀 **339** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%207%25) |
+| 🔀 **543** PRs | ![+290,557](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B290%2C557) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| ⭐ **35** stars | ![-49,224](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C224) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
 
 ## 🚀 Current Projects
 
-- [build-track](https://github.com/dcs-soni/build-track) - ![+96,931](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B96%2C931) ![-50,127](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-50%2C127) - *A multi-tenant construction management platform to streamline projects, budge...*
-- [distill](https://github.com/dcs-soni/distill) - ![+56,431](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B56%2C431) ![-5,322](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C322) - *Real Estate and Construction Platform for tracking projects, documents, and c...*
+- [distill](https://github.com/dcs-soni/distill) - ![+56,431](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B56%2C431) ![-5,322](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C322) - *An enterprise-grade microservices platform for extracting structured financia...*
 - [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - ![+18,806](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B18%2C806) ![-5,945](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C945) - *Image proxy + CDN for Notion-powered websites.*
 - [RAGent](https://github.com/dcs-soni/RAGent) - ![+5,062](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C062) ![-1,222](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C222) - *Self-Corrective RAG Agent built with LangGraph*
 - [promptdiff](https://github.com/dcs-soni/promptdiff) - ![+3,861](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C861) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *No description*
@@ -46,6 +45,7 @@ Joined GitHub **6** years ago.
 - [envdiff](https://github.com/dcs-soni/envdiff) - ![+404](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B404) ![-5](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5) - *No description*
 - [taskerra](https://github.com/dcs-soni/taskerra) - ![+30,872](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B30%2C872) ![-6,776](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C776) - *A project management tool that respects your workflow. Drag, drop, and delive...*
 - [content-flux](https://github.com/dcs-soni/content-flux) - ![+5,162](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C162) ![-66](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-66) - *🤖 AI-powered content creation agent built with Portia SDK.*
+- [time-capsule](https://github.com/dcs-soni/time-capsule) - ![+33,578](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B33%2C578) ![-269](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-269) - *Built a POC working personal archive site using Statamic (Laravel + PHP CMS)*
 
 ## 📝 Latest Blog Posts
 
