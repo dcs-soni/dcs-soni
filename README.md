@@ -18,10 +18,10 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **91** public repos | 🔥 **1,451** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2068%25) |
-| 🔥 **3,313** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2019%25) |
-| 📋 **20** issues | 🔀 **348** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
-| 🔀 **620** PRs | ![+292,971](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B292%2C971) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| 📦 **91** public repos | 🔥 **1,455** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2068%25) |
+| 🔥 **3,320** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2019%25) |
+| 📋 **20** issues | 🔀 **349** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%208%25) |
+| 🔀 **621** PRs | ![+292,971](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B292%2C971) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
 | ⭐ **35** stars | ![-49,238](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C238) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
 
 ## 🚀 Current Projects
@@ -39,7 +39,7 @@ Joined GitHub **6** years ago.
 - [cabo](https://github.com/dcs-soni/cabo) - ![+13,743](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B13%2C743) ![-1,636](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C636) - *Real-time multiplayer Cabo card game.*
 - [gitscribe](https://github.com/dcs-soni/gitscribe) - ![+6,616](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C616) ![-70](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-70) - *AI-powered CLI for generating conventional commits, changelogs, and release n...*
 - [assets](https://github.com/dcs-soni/assets) - ![+259](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B259) ![-4](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-4) - *No description*
-- [awesome-claude-skills](https://github.com/dcs-soni/awesome-claude-skills) - ![+16,116](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B16%2C116) ![-5](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5) - *A collection of custom Claude Code Skills to supercharge your development wor...*
+- [skills](https://github.com/dcs-soni/skills) - ![+16,116](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B16%2C116) ![-5](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5) - *A collection of custom Claude Code Skills to supercharge your development wor...*
 - [upkeep](https://github.com/dcs-soni/upkeep) - ![+31,185](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B31%2C185) ![-10,879](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-10%2C879) - *A sleek personal home asset tracker to digitally manage appliance inventories...*
 - [fileguard](https://github.com/dcs-soni/fileguard) - ![+11,427](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B11%2C427) ![-488](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-488) - *A file virus scanning API featuring asynchronous queue processing via BullMQ ...*
 - [s3-fileguard](https://github.com/dcs-soni/s3-fileguard) - ![+8,091](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B8%2C091) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *No description*
