@@ -1,5 +1,5 @@
 {
-  "timestamp": 1779075748691,
+  "timestamp": 1779248172884,
   "colors": {
     "1C Enterprise": "#814CCC",
     "2-Dimensional Array": "#38761D",
@@ -256,6 +256,7 @@
     "Hy": "#7790B2",
     "IDL": "#a3522f",
     "IGOR Pro": "#0000cc",
+    "IL Assembly": "#512BD4",
     "INI": "#d1dbe0",
     "ISPC": "#2D68B1",
     "Idris": "#b30000",
