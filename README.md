@@ -18,15 +18,15 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **1,555** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2063%25) |
-| 🔥 **3,450** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2021%25) |
-| 📋 **20** issues | 🔀 **370** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2011%25) |
-| 🔀 **654** PRs | ![+264,979](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B264%2C979) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
-| ⭐ **35** stars | ![-49,208](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C208) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
+| 📦 **92** public repos | 🔥 **1,568** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2063%25) |
+| 🔥 **2,628** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2020%25) |
+| 📋 **20** issues | 🔀 **374** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2012%25) |
+| 🔀 **498** PRs | ![+274,085](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B274%2C085) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| ⭐ **35** stars | ![-49,654](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C654) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
 
 ## 🚀 Current Projects
 
-- [distill](https://github.com/dcs-soni/distill) - ![+61,445](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B61%2C445) ![-5,428](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C428) - *An enterprise-grade microservices platform for extracting structured financia...*
+- [distill](https://github.com/dcs-soni/distill) - ![+70,551](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B70%2C551) ![-5,874](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C874) - *An enterprise-grade microservices platform for extracting structured financia...*
 - [reflectRAG](https://github.com/dcs-soni/reflectRAG) - ![+2,986](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B2%2C986) ![-147](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-147) - *No description*
 - [Ascend Academy](https://academyascend.in) - 🔒 Private  - *An automated academy ERP that eliminates administrative work by centralizing ...*
 - [Build Track](https://buildtrack.divyanshusoni.com) - 🔒 Private  - *A multi-tenant construction management platform to streamline projects, budge...*
