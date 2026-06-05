@@ -18,10 +18,10 @@ Joined GitHub **6** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **1,603** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2064%25) |
-| 🔥 **3,663** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2021%25) |
-| 📋 **20** issues | 🔀 **381** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2011%25) |
-| 🔀 **708** PRs | ![+281,827](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B281%2C827) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| 📦 **92** public repos | 🔥 **1,606** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2064%25) |
+| 🔥 **3,666** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2021%25) |
+| 📋 **20** issues | 🔀 **382** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2011%25) |
+| 🔀 **709** PRs | ![+281,827](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B281%2C827) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
 | ⭐ **35** stars | ![-49,744](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C744) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%202%25) |
 
 ## 🚀 Current Projects
@@ -53,7 +53,14 @@ Joined GitHub **6** years ago.
 
 <!-- BLOG-POST-LIST:START -->
 
-
+* [Building ReflectRAG - What Tutorials Won’t Tell You About RAG](https://divyanshusoni.com/blog/building-reflect-rag)
+* [Thundering Herd](https://divyanshusoni.com/blog/thundering-herd)
+* [Vector Databases: Beyond Keyword Matching](https://divyanshusoni.com/blog/vector-databases-beyond-keyword-matching)
+* [How AI Coding Tools Are Rewiring Software Development](https://divyanshusoni.com/blog/how-ai-coding-tools-are-rewiring-software-development)
+* [The Silent Database Conflict](https://divyanshusoni.com/blog/the-silent-database-conflict)
+* [Subscribers in PKI: Who Actually Uses the Certificates](https://divyanshusoni.com/blog/subscribers-in-pki-who-actually-uses-the-certificates)
+* [Private Certificate Authorities: Building Trust Inside Your Organization](https://divyanshusoni.com/blog/private-certificate-authorities-building-trust-inside-your-organization)
+* [PKI 101: Why Public Key Infrastructure matters](https://divyanshusoni.com/blog/pki-101-why-public-key-infrastructure-matters)
 
 <!-- BLOG-POST-LIST:END -->
 
