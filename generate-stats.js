@@ -541,16 +541,10 @@ async function fetchBlogPosts(count = 10) {
         const hasTag =
           item.categories &&
           item.categories.some((tag) => {
-            const t = tag.toLowerCase();
-            return t === "blog" || t === "tech" || t === "dev.to";
+            return tag.toLowerCase() === "tech";
           });
 
-        const inLink =
-          item.link.includes("blog") ||
-          item.link.includes("tech") ||
-          item.link.includes("dev.to");
-
-        return hasTag || inLink;
+        return hasTag;
       })
       .slice(0, count)
       .map((item) => ({
