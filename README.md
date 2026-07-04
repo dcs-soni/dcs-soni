@@ -18,10 +18,10 @@ Joined GitHub **7** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **1,943** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2063%25) |
-| 🔥 **4,027** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2022%25) |
+| 📦 **92** public repos | 🔥 **1,931** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2062%25) |
+| 🔥 **3,028** commits | 📝 **4** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2022%25) |
 | 📋 **20** issues | 🔀 **483** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2011%25) |
-| 🔀 **815** PRs | ![+291,719](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B291%2C719) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| 🔀 **612** PRs | ![+291,719](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B291%2C719) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
 | ⭐ **35** stars | ![-50,186](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-50%2C186) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%201%25) |
 
 ## 🚀 Current Projects
@@ -53,6 +53,7 @@ Joined GitHub **7** years ago.
 
 <!-- BLOG-POST-LIST:START -->
 
+* [What vLLM actually does and why your GPU is wasting memory without it](https://divyanshusoni.com/blog/what-vllm-actually-does)
 * [Building ReflectRAG - What Tutorials Won’t Tell You About RAG](https://divyanshusoni.com/blog/building-reflect-rag)
 * [Thundering Herd](https://divyanshusoni.com/blog/thundering-herd)
 * [Vector Databases: Beyond Keyword Matching](https://divyanshusoni.com/blog/vector-databases-beyond-keyword-matching)
