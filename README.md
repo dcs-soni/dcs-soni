@@ -18,11 +18,11 @@ Joined GitHub **7** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **2,021** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2061%25) |
-| 🔥 **4,532** commits | 📝 **3** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2023%25) |
-| 📋 **20** issues | 🔀 **509** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2011%25) |
-| 🔀 **956** PRs | ![+291,719](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B291%2C719) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
-| ⭐ **35** stars | ![-50,186](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-50%2C186) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%201%25) |
+| 📦 **92** public repos | 🔥 **2,036** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2061%25) |
+| 🔥 **4,548** commits | 📝 **3** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2023%25) |
+| 📋 **20** issues | 🔀 **511** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2011%25) |
+| 🔀 **958** PRs | ![+291,718](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B291%2C718) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| ⭐ **35** stars | ![-50,185](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-50%2C185) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%201%25) |
 
 ## 🚀 Current Projects
 
@@ -44,7 +44,7 @@ Joined GitHub **7** years ago.
 - [upkeep](https://github.com/dcs-soni/upkeep) - ![+31,185](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B31%2C185) ![-10,879](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-10%2C879) - *A sleek personal home asset tracker to digitally manage appliance inventories...*
 - [fileguard](https://github.com/dcs-soni/fileguard) - ![+11,427](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B11%2C427) ![-488](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-488) - *A file virus scanning API featuring asynchronous queue processing via BullMQ ...*
 - [s3-fileguard](https://github.com/dcs-soni/s3-fileguard) - ![+8,091](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B8%2C091) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *No description*
-- [trendsAI](https://github.com/dcs-soni/trendsAI) - ![+6,917](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C917) ![-6,917](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C917) - *A platform to discover trending AI apps and models, where users can explore, ...*
+- [trendsAI](https://github.com/dcs-soni/trendsAI) - ![+6,916](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C916) ![-6,916](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C916) - *A platform to discover trending AI apps and models, where users can explore, ...*
 - [envdiff](https://github.com/dcs-soni/envdiff) - ![+404](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B404) ![-5](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5) - *No description*
 - [taskerra](https://github.com/dcs-soni/taskerra) - ![+30,872](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B30%2C872) ![-6,776](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C776) - *A project management tool that respects your workflow. Drag, drop, and delive...*
 - [content-flux](https://github.com/dcs-soni/content-flux) - ![+5,162](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C162) ![-66](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-66) - *🤖 AI-powered content creation agent built with Portia SDK.*
