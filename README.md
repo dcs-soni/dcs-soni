@@ -18,10 +18,10 @@ Joined GitHub **7** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **2,646** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2057%25) |
-| 🔥 **5,966** commits | 📝 **1** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2030%25) |
-| 📋 **20** issues | 🔀 **728** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
-| 🔀 **1,394** PRs | ![+277,481](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B277%2C481) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| 📦 **92** public repos | 🔥 **2,669** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2057%25) |
+| 🔥 **5,990** commits | 📝 **1** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2030%25) |
+| 📋 **20** issues | 🔀 **735** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
+| 🔀 **1,401** PRs | ![+277,255](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B277%2C255) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
 | ⭐ **35** stars | ![-49,398](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C398) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%201%25) |
 
 ## 🚀 Current Projects
@@ -46,7 +46,7 @@ Joined GitHub **7** years ago.
 - [s3-fileguard](https://github.com/dcs-soni/s3-fileguard) - ![+8,091](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B8%2C091) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *No description*
 - [trendsAI](https://github.com/dcs-soni/trendsAI) - ![+6,916](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C916) ![-6,916](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C916) - *A platform to discover trending AI apps and models, where users can explore, ...*
 - [envdiff](https://github.com/dcs-soni/envdiff) - ![+404](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B404) ![-5](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5) - *No description*
-- [taskerra](https://github.com/dcs-soni/taskerra) - ![+21,797](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B21%2C797) ![-6,055](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C055) - *A project management tool that respects your workflow. Drag, drop, and delive...*
+- [taskerra](https://github.com/dcs-soni/taskerra) - ![+21,571](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B21%2C571) ![-6,055](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C055) - *A project management tool that respects your workflow. Drag, drop, and delive...*
 - [content-flux](https://github.com/dcs-soni/content-flux) - ![+0](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B0) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *🤖 AI-powered content creation agent built with Portia SDK.*
 
 ## 📝 Latest Blog Posts
