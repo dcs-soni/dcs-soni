@@ -18,36 +18,36 @@ Joined GitHub **7** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **92** public repos | 🔥 **2,715** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2057%25) |
-| 🔥 **6,039** commits | 📝 **1** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2030%25) |
-| 📋 **20** issues | 🔀 **754** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
-| 🔀 **1,420** PRs | ![+276,679](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B276%2C679) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
-| ⭐ **35** stars | ![-49,398](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C398) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%201%25) |
+| 📦 **93** public repos | 🔥 **2,727** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2057%25) |
+| 🔥 **6,051** commits | 📝 **1** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2030%25) |
+| 📋 **20** issues | 🔀 **758** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
+| 🔀 **1,424** PRs | ![+276,358](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B276%2C358) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| ⭐ **35** stars | ![-49,395](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-49%2C395) lines removed | ![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%201%25) |
 
 ## 🚀 Current Projects
 
-- [distill](https://github.com/dcs-soni/distill) - ![+88,185](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B88%2C185) ![-6,406](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C406) - *An enterprise-grade microservices platform for extracting structured financia...*
-- [reflectRAG](https://github.com/dcs-soni/reflectRAG) - ![+2,986](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B2%2C986) ![-147](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-147) - *No description*
-- [Ascend Academy](https://academyascend.in) - 🔒 Private  - *An automated academy ERP that eliminates administrative work by centralizing ...*
-- [Build Track](https://buildtrack.divyanshusoni.com) - 🔒 Private  - *A multi-tenant construction management platform to streamline projects, budge...*
-- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - ![+18,806](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B18%2C806) ![-5,945](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C945) - *Image proxy + CDN for Notion-powered websites.*
-- [RAGent](https://github.com/dcs-soni/RAGent) - ![+5,062](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B5%2C062) ![-1,222](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C222) - *Self-Corrective RAG Agent built with LangGraph*
-- [promptdiff](https://github.com/dcs-soni/promptdiff) - ![+3,861](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C861) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *No description*
-- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - ![+6,913](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C913) ![-420](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-420) - *A CLI tool to generate TypeScript interfaces, Zod schemas, and fetch clients ...*
-- [promptenhance](https://github.com/dcs-soni/promptenhance) - ![+8,713](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B8%2C713) ![-3,337](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C337) - *Add relevant code context to your AI prompts using semantic search and vector...*
-- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - ![+16,850](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B16%2C850) ![-1,991](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C991) - *Save, search, and share your content intelligently with AI-powered semantic s...*
-- [postmaster](https://github.com/dcs-soni/postmaster) - ![+9,551](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B9%2C551) ![-3,872](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-3%2C872) - *A lightweight, secure API testing tool with a built-in CORS proxy server to t...*
-- [cabo](https://github.com/dcs-soni/cabo) - ![+13,743](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B13%2C743) ![-1,636](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-1%2C636) - *Real-time multiplayer Cabo card game.*
-- [gitscribe](https://github.com/dcs-soni/gitscribe) - ![+6,616](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C616) ![-70](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-70) - *AI-powered CLI for generating conventional commits, changelogs, and release n...*
-- [assets](https://github.com/dcs-soni/assets) - ![+259](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B259) ![-4](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-4) - *No description*
-- [skills](https://github.com/dcs-soni/skills) - ![+16,116](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B16%2C116) ![-5](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5) - *A collection of custom Claude Code Skills to supercharge your development wor...*
-- [upkeep](https://github.com/dcs-soni/upkeep) - ![+31,185](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B31%2C185) ![-10,879](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-10%2C879) - *A sleek personal home asset tracker to digitally manage appliance inventories...*
-- [fileguard](https://github.com/dcs-soni/fileguard) - ![+11,427](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B11%2C427) ![-488](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-488) - *A file virus scanning API featuring asynchronous queue processing via BullMQ ...*
-- [s3-fileguard](https://github.com/dcs-soni/s3-fileguard) - ![+8,091](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B8%2C091) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *No description*
-- [trendsAI](https://github.com/dcs-soni/trendsAI) - ![+6,916](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C916) ![-6,916](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C916) - *A platform to discover trending AI apps and models, where users can explore, ...*
-- [envdiff](https://github.com/dcs-soni/envdiff) - ![+404](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B404) ![-5](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5) - *No description*
-- [taskerra](https://github.com/dcs-soni/taskerra) - ![+20,995](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B20%2C995) ![-6,055](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C055) - *A project management tool that respects your workflow. Drag, drop, and delive...*
-- [content-flux](https://github.com/dcs-soni/content-flux) - ![+0](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B0) ![-0](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-0) - *🤖 AI-powered content creation agent built with Portia SDK.*
+- [reelm](https://github.com/dcs-soni/reelm) - *A record-and-replay HTTP proxy that makes LLM-powered tests instant, free, an...*
+- [distill](https://github.com/dcs-soni/distill) - *An enterprise-grade microservices platform for extracting structured financia...*
+- [Ascend Academy](https://academyascend.in) - *An automated academy ERP that eliminates administrative work by centralizing ...*
+- [Build Track](https://buildtrack.divyanshusoni.com) - *A multi-tenant construction management platform to streamline projects, budge...*
+- [reflectRAG](https://github.com/dcs-soni/reflectRAG) - *No description*
+- [notion-image-cdn](https://github.com/dcs-soni/notion-image-cdn) - *Image proxy + CDN for Notion-powered websites.*
+- [RAGent](https://github.com/dcs-soni/RAGent) - *Self-Corrective RAG Agent built with LangGraph*
+- [promptdiff](https://github.com/dcs-soni/promptdiff) - *No description*
+- [curl-to-code](https://github.com/dcs-soni/curl-to-code) - *A CLI tool to generate TypeScript interfaces, Zod schemas, and fetch clients ...*
+- [promptenhance](https://github.com/dcs-soni/promptenhance) - *Add relevant code context to your AI prompts using semantic search and vector...*
+- [stashit-cloud](https://github.com/dcs-soni/stashit-cloud) - *Save, search, and share your content intelligently with AI-powered semantic s...*
+- [postmaster](https://github.com/dcs-soni/postmaster) - *A lightweight, secure API testing tool with a built-in CORS proxy server to t...*
+- [cabo](https://github.com/dcs-soni/cabo) - *Real-time multiplayer Cabo card game.*
+- [gitscribe](https://github.com/dcs-soni/gitscribe) - *AI-powered CLI for generating conventional commits, changelogs, and release n...*
+- [assets](https://github.com/dcs-soni/assets) - *No description*
+- [skills](https://github.com/dcs-soni/skills) - *A collection of custom Claude Code Skills to supercharge your development wor...*
+- [upkeep](https://github.com/dcs-soni/upkeep) - *A sleek personal home asset tracker to digitally manage appliance inventories...*
+- [fileguard](https://github.com/dcs-soni/fileguard) - *A file virus scanning API featuring asynchronous queue processing via BullMQ ...*
+- [s3-fileguard](https://github.com/dcs-soni/s3-fileguard) - *No description*
+- [trendsAI](https://github.com/dcs-soni/trendsAI) - *A platform to discover trending AI apps and models, where users can explore, ...*
+- [envdiff](https://github.com/dcs-soni/envdiff) - *No description*
+- [taskerra](https://github.com/dcs-soni/taskerra) - *A project management tool that respects your workflow. Drag, drop, and delive...*
 
 ## 📝 Latest Blog Posts
 
