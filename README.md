@@ -18,11 +18,11 @@ Joined GitHub **7** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **93** public repos | 🔥 **2,789** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2055%25) |
-| 🔥 **6,153** commits | 📝 **1** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2032%25) |
+| 📦 **93** public repos | 🔥 **2,793** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2054%25) |
+| 🔥 **6,164** commits | 📝 **1** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2032%25) |
 | 📋 **20** issues | 🔀 **779** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
-| 🔀 **1,455** PRs | ![+262,275](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B262%2C275) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
-| ⭐ **35** stars | ![-45,529](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-45%2C529) lines removed | ![Go](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%201%25) |
+| 🔀 **1,458** PRs | ![+261,582](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B261%2C582) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| ⭐ **35** stars | ![-44,842](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-44%2C842) lines removed | ![Go](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%201%25) |
 
 ## 🚀 Current Projects
 
