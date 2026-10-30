@@ -18,10 +18,10 @@ Joined GitHub **7** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **93** public repos | 🔥 **3,095** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2052%25) |
-| 🔥 **6,954** commits | 📝 **0** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2035%25) |
-| 📋 **20** issues | 🔀 **881** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
-| 🔀 **1,714** PRs | ![+257,237](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B257%2C237) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| 📦 **93** public repos | 🔥 **3,107** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2052%25) |
+| 🔥 **6,972** commits | 📝 **0** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2035%25) |
+| 📋 **20** issues | 🔀 **887** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
+| 🔀 **1,722** PRs | ![+256,501](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B256%2C501) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
 | ⭐ **35** stars | ![-44,575](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-44%2C575) lines removed | ![Go](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%201%25) |
 
 ## 🚀 Current Projects
