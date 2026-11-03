@@ -18,11 +18,11 @@ Joined GitHub **7** years ago.
 
 | All Time | Last Year | Top Languages (Last Year) |
 | -------- | --------- | ------------------------- |
-| 📦 **93** public repos | 🔥 **3,101** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2051%25) |
-| 🔥 **4,460** commits | 📝 **0** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2036%25) |
-| 📋 **20** issues | 🔀 **886** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
-| 🔀 **1,067** PRs | ![+256,193](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B256%2C193) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
-| ⭐ **35** stars | ![-44,271](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-44%2C271) lines removed | ![Go](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%201%25) |
+| 📦 **93** public repos | 🔥 **3,105** commits | ![TypeScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2051%25) |
+| 🔥 **7,301** commits | 📝 **0** issues | ![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2036%25) |
+| 📋 **20** issues | 🔀 **888** PRs | ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%209%25) |
+| 🔀 **1,843** PRs | ![+255,541](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B255%2C541) lines added | ![HCL](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23844FBA&message=HCL%203%25) |
+| ⭐ **35** stars | ![-43,815](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-43%2C815) lines removed | ![Go](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%201%25) |
 
 ## 🚀 Current Projects
 
